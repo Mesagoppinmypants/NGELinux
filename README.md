@@ -53,7 +53,7 @@ https://mega.nz/#F!mZw2BLJJ!-vcXi2_NN-WoslIjiY32Gw
 Git: http://repo.or.cz/w/swg-src.git
 
 
-Static (only at initial commit):
+Static (only at initial commit): https://mega.nz/#F!mZw2BLJJ!-vcXi2_NN-WoslIjiY32Gw
 
 
 Feel free to fork and mirror yourself with caution. Please share useful changes you make on Reddit.com/r/swg or Voat.co/v/swg if the git repos are ever taken down.
