@@ -1,0 +1,5 @@
+messageHandler startHandler()
+{
+	return SCRIPT_CONTINUE;
+}
+

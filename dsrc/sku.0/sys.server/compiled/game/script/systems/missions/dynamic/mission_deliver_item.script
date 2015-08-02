@@ -1,0 +1,31 @@
+inherits systems.missions.base.mission_dynamic_base;
+
+trigger OnAttach()
+{
+
+
+
+	return SCRIPT_CONTINUE;
+
+
+}
+
+trigger OnInitialize ()
+{
+	if (!hasScript (self, "systems.missions.base.mission_cleanup_tracker"))
+	{
+		attachScript (self, "systems.missions.base.mission_cleanup_tracker");
+	}
+	return SCRIPT_CONTINUE;
+}
+
+
+
+trigger OnRemovingFromWorld()
+{
+	return SCRIPT_CONTINUE;
+
+
+
+
+}

@@ -1,0 +1,8 @@
+trigger OnInitialize()
+{
+	return SCRIPT_CONTINUE;
+}
+
+
+
+

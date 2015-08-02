@@ -1,0 +1,17 @@
+*.rpm
+.anjuta/
+.anjuta_sym_db.db
+*.anjuta
+config
+.setup
+*.log
+default-configs
+utils/mocha
+mocha
+build*/
+data
+exe
+utils/mocha
+lextab.py
+yacctab.py
+ibm*/
