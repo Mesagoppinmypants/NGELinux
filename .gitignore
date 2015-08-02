@@ -9,6 +9,4 @@ default-configs
 build*/
 data
 exe
-lextab.py
-yacctab.py
 ibm*/
