@@ -1,0 +1,10 @@
+lextab.py
+yacctab.py
+parser.out
+*.pyc
+script
+*.txt
+*.log
+*.java
+
+scratch.script

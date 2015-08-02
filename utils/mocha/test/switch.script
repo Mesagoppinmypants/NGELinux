@@ -1,0 +1,13 @@
+switch(getContainerType(self))
+{
+    case 0:
+        detachScript(self, "item.container.base.base_container");
+        break;
+    case 1:
+        utils.requestContainerOpen(player, self);
+        break;
+
+    default:
+        break;
+
+}

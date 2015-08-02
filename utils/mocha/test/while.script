@@ -1,0 +1,9 @@
+
+while(true)
+{
+    test();
+}
+
+do {
+    test();
+} while(true);

@@ -1,0 +1,22 @@
+
+include library.ai_lib;
+include library.buff;
+include library.corpse;
+include library.consumable;
+include library.craftinglib;
+include library.factions;
+include library.healing;
+include library.hue;
+include library.money;
+include library.pet_lib;
+include library.resource;
+include library.slots;
+include library.static_item;
+include library.storyteller;
+include library.trace;
+include library.utils;
+include library.weapons;
+include java.util.Arrays;
+include java.util.Enumeration;
+include java.util.Vector;
+include java.util.*;

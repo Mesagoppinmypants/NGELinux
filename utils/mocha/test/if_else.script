@@ -1,0 +1,29 @@
+
+if (t)
+    test();
+
+if (t) {
+    test();
+}
+
+if (t) {
+    test();
+}
+else
+    test2();
+
+
+if (t) {
+    test();
+} else {
+    test2();
+}
+
+
+if (t) {
+    test();
+} else if (p) {
+    test2();
+} else {
+    ++i;
+}

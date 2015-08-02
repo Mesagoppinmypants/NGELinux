@@ -1,0 +1,4 @@
+boolean addLoot( obj_id target )
+{
+    return hasLoot;
+}

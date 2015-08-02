@@ -6,12 +6,9 @@ config
 .setup
 *.log
 default-configs
-utils/mocha
-mocha
 build*/
 data
 exe
-utils/mocha
 lextab.py
 yacctab.py
 ibm*/
