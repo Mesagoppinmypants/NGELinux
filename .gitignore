@@ -1,3 +1,5 @@
+yacctab.py
+lextab.py
 *.rpm
 .anjuta/
 .anjuta_sym_db.db
