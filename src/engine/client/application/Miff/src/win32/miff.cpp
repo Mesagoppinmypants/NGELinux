@@ -847,7 +847,6 @@ static int preprocessSource(char *sourceName)
  		else
 			sprintf(shellCommand, "cccp.exe -nostdinc -nostdinc++ -x c++ -pedantic -Wall -dD %s mIFF.$$$", sourceName);
  	}
-	}
 //	else
 	{
 		// running under NT.  Use the MSVC cl since it deals with long filenames on fat16/fat32 partitions correctly
