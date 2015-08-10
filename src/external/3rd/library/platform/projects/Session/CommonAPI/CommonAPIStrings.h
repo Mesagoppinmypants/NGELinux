@@ -249,3 +249,4 @@ static std::map<apiGamecode,const char *> GamecodeName((const std::map<apiGameco
 
 #endif UNIX
 #endif
+
