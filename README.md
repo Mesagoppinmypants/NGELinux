@@ -12,8 +12,7 @@ As for the missing NPC's, the majority of them are in the sku.0/sys.server/compi
 
 ## Contact
 
-Please file a bug/issue first. We also occasionally check our email, swgmaster@india.com
-
+Please file a bug/issue first. If you need to contact us, send message on reddit to https://www.reddit.com/user/swgmasters
 # Building
 
 See README_LINUX.md and README_WINDOWS.md
