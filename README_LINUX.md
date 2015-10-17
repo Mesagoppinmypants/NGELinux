@@ -9,14 +9,13 @@ Before you do anything, make sure to install sudo if it isn't already, and add y
     su #and enter your root password at the prompt
     apt-get install sudo
 
-    vim /etc/sudoers
+    visudo
 
 Add the following line anywhere in the file, replacing "user" with your username:
 
     user ALL=(ALL) NOPASSWD: ALL
 
 To save, hit the ESC key, then type wq! and hit enter. You may then exit from your root shell. 
-
 
 ## Specifications
 
@@ -54,6 +53,8 @@ Add the following to your ~/.bashrc, replacing "swg" with your database name
 ## Compilation
 
 Using a 32 bit installation of Ubuntu or Debian Linux, clone this repo and execute the build_linux.sh script from a terminal. While building, if you haven't already, go ahead and setup the database server, as build time is quite long.
+
+If you get errors about a CFLAG, remove the offending cflag from src/CMakeLists.txt and try again. gcc-5.2 is HIGHLY suggested, it builds a much more efficient server and supports all cflags. This is why using Debian Sid is a good option, else you can build gcc yourself or find a PPA to supply it.
 
 ## Configuration
 
