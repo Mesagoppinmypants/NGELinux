@@ -21,3 +21,4 @@ Open SQL Developer and go to the cluster_list table and change the address to yo
 ## DMZ or Port Forwarding
 
 Go into your router configuration area and find the DMZ setting. Enable it and point it at the LAN address of the SWG server - you may also be able to simply forward the [SWG ports](ports) to the game server instead, which would be more secure.
+   
