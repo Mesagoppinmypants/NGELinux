@@ -1,3 +1,36 @@
+# QATool and Godmode
+
+Become God:
+
+    /setgodmode 50
+
+Get your network ID:
+
+    /setspeed 1
+    
+Attach QATool:
+
+    /script attach test.qatool <your network id>
+    
+To see what QAtool can do:
+
+   /qatool
+    
+# Planet Persist
+
+Set your localOptions.cfg to only have 1 persister thread and loadWholePlanets=1. Teleport to the planet you want to persist, attach the QATool, and as god, run
+
+    /qatool persistplanet <planetname>
+    
+Once you have persisted all planets, shutdown the server and optionally remove the data/sku.0/sys.server/compiled/game/datatables/<planetname/*_ws.iff but only the ws files. You can then restart the server, optionally turning loadWholePlanet off to make it load faster and use less memory.
+# Server Shutdown
+
+    /server shutdown 1 1 1 1
+    
+# Spawn NPCs In Eisley Cantina
+
+    /script attach theme_park.tatooine.mos_eisley.masterspawner 1082874
+
 # Testing
 
     /setgodmode 50 
