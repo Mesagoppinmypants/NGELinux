@@ -8,7 +8,7 @@ We anons working on this fully support all the SWG emus out there and recognize 
 
 ## Missing NPCs
 
-As for the missing NPC's, the majority of them are in the sku.0/sys.server/compiled/game/datatables/buildouts _ws.iff files, but so far we have been unable to load them. There is a method to persist them to the database but it has been hit and miss. This method involves attaching the script working.jhaskell_test to a character and using a macro with "/yell persist_obj <oid> /sleep 2; ..." for each oid.
+As for the missing NPC's, the majority of them are in the sku.0/sys.server/compiled/game/datatables/buildouts _ws.iff files, but so far we have been unable to load them. There is a method to persist them to the database but it has been hit and miss. This method is documented in the USEFUL_COMMANDS.md file.
 
 ## Contact
 
