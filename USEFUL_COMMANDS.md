@@ -22,7 +22,7 @@ Set your localOptions.cfg to only have 1 persister thread and loadWholePlanets=1
 
     /qatool persistplanet <planetname>
     
-Once you have persisted all planets, shutdown the server and optionally remove the data/sku.0/sys.server/compiled/game/datatables/<planetname/*_ws.iff but only the ws files. You can then restart the server, optionally turning loadWholePlanet off to make it load faster and use less memory.
+Once you have persisted all planets, shutdown the server and optionally remove the data/sku.0/sys.server/compiled/game/datatables/buildout/<planetname/*_ws.iff but only the ws files. You can then restart the server, optionally turning loadWholePlanet off to make it load faster and use less memory.
 # Server Shutdown
 
     /server shutdown 1 1 1 1
