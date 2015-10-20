@@ -1,10 +1,16 @@
 Small blurb about command syntax:
     /command
+    
     /command <argument you must specify> <>
+    
     /command [optional argument you may not need to specify] []
+    
     /command -parameter means you need to actually type -whatever -parameter
+    
     /command [TARGET] simply means it must be your current target. [TARGET]
+    
     /command <argument | argument2> means there is more than one option. Pick 1. | ARGUMENT |
+    
     
 #Enabling God Mode (Admin)
 Note: Your localOptions.cfg file must have "adminGodToAll=1" in the [GameServer] section. Alternatively, if you would only like certain users to have access to the God Mode abilities, you can toggle that bool to 0 in localOptions and instead you will need to edit both the "qa_admin" and "us_admin" .tab files with the account username you'd like to have. Set their GodLevel to 55 for all commands and abilities, and their skill to "admin". Then compile it with the miff.exe tool. It is recommended that once you have compiled this file once, you only make future revisions with TRE Explorer as compiling the .tab document can get complex.
