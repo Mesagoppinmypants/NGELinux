@@ -4,7 +4,7 @@ echo "Initializing Environment"
 
 sudo apt-get remove --purge oracle-java*
 sudo apt-get update
-sudo apt-get install build-essential zlib1g-dev libpcre3-dev cmake libboost-dev libxml2-dev libncurses5-dev flex bison git-core alien libaio1 python-ply bc 
+sudo apt-get install build-essential zlib1g-dev libpcre3-dev cmake libboost-dev libxml2-dev libncurses5-dev flex bison git-core alien libaio1 python-ply bc curl  libcurl4-openssl-dev
 
 if [ ! -f oracle-instantclient12.1-basiclite-12.1.0.2.0-1.i386.rpm ]; then
 	wget http://repo.cyrus-project.org/centos5-i386/RPMS.nonfree/oracle-instantclient12.1-basiclite-12.1.0.2.0-1.i386.rpm
