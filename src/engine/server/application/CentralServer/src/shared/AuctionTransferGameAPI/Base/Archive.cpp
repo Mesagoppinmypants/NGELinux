@@ -51,7 +51,7 @@ namespace Base
 	}
 
 #else
-#pragma message ("--- Packing c style strings ---")
+//#pragma message ("--- Packing c style strings ---")
     void get(ByteStream::ReadIterator & source, std::string & target)
     {
 	    target = reinterpret_cast<const char *>(source.getBuffer());

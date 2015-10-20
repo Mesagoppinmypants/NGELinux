@@ -26,6 +26,7 @@ if [ ! -f $basedir/.setup ]; then
 			$basedir/utils/init/ubuntu.sh
 			source /etc/profile.d/java.sh
 			source /etc/profile.d/oracle.sh
+			$basedir/utils/init/buildCurl.sh
 			touch $basedir/.setup
 			
 			echo "Please login and out or reboot as changes have been made to your PATH "

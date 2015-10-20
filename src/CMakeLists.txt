@@ -28,6 +28,7 @@ find_package(PCRE REQUIRED)
 find_package(Perl REQUIRED)
 find_package(Threads)
 find_package(ZLIB REQUIRED)
+find_package(Curl REQUIRED)
 
 if(WIN32)
 	find_package(Iconv REQUIRED)
