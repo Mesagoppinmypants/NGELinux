@@ -37,10 +37,15 @@ You need to edit your user.cfg file and add the following:
     drawNetworkIds=1
  
 0fd345d9 enables the admin commands in your client. Without it your client will not send the commands to the server and will return the "no such command" error.
+
 debugExamine allows you to /examine an object and get the ObjectID, and various other information like it's template.
+
 debugClipboardExamine makes the debug info you get from /examine get placed on your clipboard so you can paste it with Ctrl+v
+
 allowTargetAnything enables the ability to target objects like entire structures or objects you normally cannot to fix issues.
+
 drawNetworkIds puts the ObjectID and NetworkID above every objects name.
+
 
 # Basic God Mode Commands - Teleportation
 
