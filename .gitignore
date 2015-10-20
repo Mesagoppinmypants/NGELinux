@@ -8,7 +8,9 @@ config
 .setup
 *.log
 default-configs
-build*/
+build/*
 data
 exe
 ibm*/
+!build/.project
+!build/.cproject

@@ -110,6 +110,7 @@ include_directories(
     ${SWG_EXTERNALS_SOURCE_DIR}/3rd/library/platform/projects
     ${SWG_EXTERNALS_SOURCE_DIR}/3rd/library/platform/utils
     ${SWG_EXTERNALS_SOURCE_DIR}/3rd/library/udplibrary
+ 	${CURL_INCLUDE_DIRS}
 )
 
 add_executable(LoginServer
@@ -151,4 +152,5 @@ target_link_libraries(LoginServer
     LoginAPI
     MonAPI2
     ${CMAKE_DL_LIBS}
+    ${CURL_LIBRARIES}
 )
