@@ -127,7 +127,7 @@ class ConfigLoginServer
 	static int          getPopulationHeavyThresholdPercent();
 	static int          getPopulationMediumThresholdPercent();
 	static int          getPopulationLightThresholdPercent();
-	static bool			getAuthentication();
+	static bool	    getAuthentication();
 
 	// has character creation for this cluster been disabled through config option
 	static bool         isCharacterCreationDisabled(std::string const & cluster);
@@ -474,8 +474,6 @@ inline bool ConfigLoginServer::getAuthentication()
 {
 	return data->authentication;
 }
-
-// ----------------------------------------------------------------------
 // ======================================================================
 
 #endif	// _ConfigLoginServer_H
