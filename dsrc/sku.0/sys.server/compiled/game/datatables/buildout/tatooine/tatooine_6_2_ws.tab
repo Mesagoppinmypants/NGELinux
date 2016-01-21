@@ -56,6 +56,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1082887	1082874	object/cell/cell.iff	13	0	0	0	1	0	0	0		$|
 1082888	1082874	object/cell/cell.iff	14	0	0	0	1	0	0	0		$|
 1082889	1082874	object/cell/cell.iff	15	0	0	0	1	0	0	0		$|
+5566049	1082886	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	12	-21.5845603942871	-.894990026950836	22.3800640106201	.342020153999329	0.00	.939692616462708	0.00	conversation.tatooine_privateer_trainer_1	$|
 1095499	0	object/building/military/military_outpost_guard_house_imperial.iff	0	1852.24	180	1611.52	0.637152	0	0.770739	0		$|
 1095500	1095499	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
 1095501	1095499	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|

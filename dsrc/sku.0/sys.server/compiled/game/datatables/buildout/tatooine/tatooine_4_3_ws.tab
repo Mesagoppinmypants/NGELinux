@@ -81,6 +81,9 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 926481	926472	object/cell/cell.iff	9	0	0	0	1	0	0	0		$|
 926482	926472	object/cell/cell.iff	10	0	0	0	1	0	0	0		$|
 926483	926472	object/cell/cell.iff	11	0	0	0	1	0	0	0		$|
+3795757	926480	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	8	-22.3147354125977	3.22323703765869	26.7326011657715	0.00	1.00	.382683455944061	0.00	conversation.tatooine_imperial_trainer_2	$|
+1443017	0	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	0	923.40795898437	12.1958799362183	474.27197265625	.283662170171738	0	.958924293518066	0	conversation.imperial_broker	$|
+4275655	0	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	0	874.07763671875	12.00	448.92041015625	1.00	0	0	0	conversation.privateer_broker	$|
 1026824	0	object/building/tatooine/starport_tatooine.iff	0	671.846	12	519.774	0.646043	0	0.763301	0	structure.municipal.starport	travel.air_time|0|60|travel.cost|0|150|travel.ground_time|0|300|travel.point_name|4|Bestine Starport|travel.shuttle_available|0|1|travel.version|0|3|$|
 1026825	1026824	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
 1026826	1026824	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
@@ -337,6 +340,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1028605	1028590	object/cell/cell.iff	15	0	0	0	1	0	0	0		$|
 1028606	1028590	object/cell/cell.iff	16	0	0	0	1	0	0	0		$|
 1028607	1028590	object/cell/cell.iff	17	0	0	0	1	0	0	0		$|
+5566043	1028600	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	10	.224280998110771	1.75	-14.8251876831055	1.00	0.00	.382683455944061	0.00	conversation.tatooine_imperial_trainer_1	$|
 1028644	0	object/building/tatooine/cantina_tatooine.iff	0	643.74	12	427.231	0.986156	0	0.165823	0		$|
 1028645	1028644	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
 1028646	1028644	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
