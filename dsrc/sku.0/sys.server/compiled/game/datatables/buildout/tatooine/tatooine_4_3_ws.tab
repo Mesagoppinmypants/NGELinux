@@ -660,6 +660,8 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1223853	1223845	object/cell/cell.iff	8	0	0	0	1	0	0	0		$|
 1223854	1223845	object/cell/cell.iff	9	0	0	0	1	0	0	0		$|
 1223855	1223845	object/cell/cell.iff	10	0	0	0	1	0	0	0		$|
+1443039	1223851	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	6	-20.7998313903809	1.60000097751617	8.12963581085205	.70710676908493	0.00	-.707106709480286	0.00	conversation.tatooine_privateer_trainer_1	$|
+1443040	1223851	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	6	-22.3108310699463	1.60000097751617	5.93958282470703	1	0.00	0.00	0.00	conversation.tatooine_privateer_trainer_1	$|
 1223861	0	object/static/structure/tatooine/wall_cleft_tatooine_large_style_01.iff	0	837.25	12	596.11	0.737395	0	0.675462	0		$|
 1223863	0	object/static/structure/tatooine/pillar_damaged_large_style_01.iff	0	842.039	12	596.273	0.737395	0	0.675462	0		$|
 1223864	0	object/static/structure/tatooine/pillar_pristine_large_style_01.iff	0	833.274	12	595.578	0.737395	0	0.675462	0		$|
