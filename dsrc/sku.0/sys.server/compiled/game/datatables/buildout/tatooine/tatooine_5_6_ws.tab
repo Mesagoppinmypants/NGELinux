@@ -1721,6 +1721,12 @@ i	i	h	i	f	f	f	f	f	f	f	s	s
 4005530	4005516	object/cell/cell.iff	14	0	0	0	1	0	0	0		$|
 4005531	4005516	object/cell/cell.iff	15	0	0	0	1	0	0	0		$|
 4005532	4005516	object/cell/cell.iff	16	0	0	0	1	0	0	0		$|
+44056121	4005520	object/tangible/terminal/terminal_space.iff	4	6.50	0.64	57.63	0.70	0.00	0.71	0.00	space.terminal.terminal_space	$|
+44056122	4005520	object/tangible/terminal/terminal_space.iff	4	-5.68	0.64	57.43	0.72	0.00	-0.69	0.00	space.terminal.terminal_space	$|
+44056120	4005520	object/tangible/terminal/terminal_space.iff	4	0.19	0.64	62.12	0.00	0.00	0.00	0.00	space.terminal.terminal_space	$|
+4265841	4005520	object/tangible/terminal/terminal_newsnet.iff	4	15.42	0.64	54.35	0.71	0.00	-0.70	0.00	systems.gcw.newsnet_terminal	$|
+3795693	4005526	object/tangible/terminal/terminal_space.iff	10	-37.86	1.64	49.20	-0.65	0.00	0.76	0.00	space.terminal.terminal_space	$|
+3795694	4005526	object/tangible/terminal/terminal_space.iff	10	-44.06	1.64	50.20	0.77	0.00	0.64	0.00	space.terminal.terminal_space	$|
 4005533	0	object/static/tatooine/rock_spire_skinny_tatooine_style_1.iff	0	1340.31005859375	9.25125026702881	1053.580078125	1	0	0	0		$|
 4005534	0	object/building/tatooine/filler_building_block_64x16_style_02.iff	0	1182.17004394531	7	1108.01000976562	.376253992319107	0	.926517009735107	0	structure.filler.filler	$|
 4005537	0	object/building/tatooine/filler_building_block_64x16_style_01.iff	0	1144.06994628906	7	1038.919921875	.799098372459412	0	-.601200461387634	0	structure.filler.filler	$|
