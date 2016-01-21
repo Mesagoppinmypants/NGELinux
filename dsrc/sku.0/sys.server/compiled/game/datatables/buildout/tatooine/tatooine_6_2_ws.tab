@@ -143,6 +143,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1279067	1106372	object/tangible/terminal/terminal_space.iff	4	-5.68	0.64	57.43	0.72	0.00	-0.69	0.00	space.terminal.terminal_space	$|
 1279065	1106372	object/tangible/terminal/terminal_space.iff	4	0.19	0.64	62.12	-0.01	0.00	1.00	0.00	space.terminal.terminal_space	$|
 4265836	1106372	object/tangible/terminal/terminal_newsnet.iff	4	15.42	0.64	54.35	0.71	0.00	-0.70	0.00	systems.gcw.newsnet_terminal	$|
+3795684	1106372	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	4	2.19	0.64	67.12	-0.01	0.00	1.00	0.00	conversation.chassis_npc	$|
 1106423	0	object/building/tatooine/filler_building_tatt_style01_01.iff	0	1452.66	5	1264.9	-0.331024	0	0.943622	0		$|
 1106435	0	object/static/structure/tatooine/jawa/tent_jawa_01_large.iff	0	1395.09	4.98634	1529.17	0.900447	0	0.434966	0		$|
 1106438	0	object/static/structure/tatooine/jawa/tent_jawa_01_small.iff	0	1314.74	4.98979	1465.01	0.896052	0	0.443948	0		$|
