@@ -417,6 +417,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1442993	1261655	object/tangible/terminal/terminal_space.iff	4	0.19	0.64	62.12	0.00	0.00	0.00	0.00	space.terminal.terminal_space	$|
 4265842	1261655	object/tangible/terminal/terminal_newsnet.iff	4	15.42	0.64	54.35	0.71	0.00	-0.70	0.00	systems.gcw.newsnet_terminal	$|
 3795698	1261655	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	4	2.19	0.64	67.12	-0.01	0.00	1.00	0.00	conversation.chassis_npc	$|
+4266022	1261660	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	9	-30.326343536377	1.63942182064056	51.5528259277344	1.00	0.00	1.00	0.00		$|
 3795700	1261661	object/tangible/terminal/terminal_space.iff	10	-37.86	1.64	49.20	-0.65	0.00	0.76	0.00	space.terminal.terminal_space	$|
 3795701	1261661	object/tangible/terminal/terminal_space.iff	10	-44.06	1.64	50.20	0.77	0.00	0.64	0.00	space.terminal.terminal_space	$|
 1261667	0	object/building/tatooine/shuttleport_tatooine.iff	0	1296.78	5	115.43	0.779214	0	0.626758	0	structure.municipal.starport:planet_map.map_loc	travel.cost|0|200|travel.ground_time|0|300|travel.is_shuttleport|0|1|travel.point_name|4|Mos Espa Shuttleport East|travel.shuttle_available|0|1|travel.version|0|3|$|
