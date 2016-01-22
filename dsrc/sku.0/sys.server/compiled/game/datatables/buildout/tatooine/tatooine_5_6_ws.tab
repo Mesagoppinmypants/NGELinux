@@ -1704,6 +1704,8 @@ i	i	h	i	f	f	f	f	f	f	f	s	s
 3945423	0	object/static/structure/tatooine/pillar_pristine_large_style_01.iff	0	1754.5400390625	7	1163.30004882813	.000000327000009292533	0	1	0		$|
 3945425	0	object/static/structure/tatooine/pillar_pristine_large_style_01.iff	0	1754.46997070312	7	1146.80004882813	0	0	1	0		$|
 3945426	0	object/static/structure/tatooine/wall_pristine_tatooine_large_style_01.iff	0	1757.02001953125	4.721519947052	1143.76000976563	.966389834880829	0	-.257081061601639	0		$|
+3355714	0	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	0	1291.45288085938	7	1100.40478515625	-.0442276038229465	0.00	.999021470546722	0.00		$|
+3355715	0	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	0	1302.6220703125	7	1092.884765625	-.598460078239441	0.00	.801152646541595	0.00		$|
 4005516	0	object/building/tatooine/starport_tatooine.iff	0	1238.18	7	1013.85	0.953847	0	0.300293	0	theme_park.dungeon.generic_spawner:structure.municipal.starport	travel.air_time|0|60|travel.cost|0|150|travel.ground_time|0|300|travel.point_name|4|Mos Entha Starport|travel.shuttle_available|0|1|travel.version|0|3|spawn_table|4|datatables/spawning/poi_spawner/tatooine/mosentha_starport.iff|$|
 4005517	4005516	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
 4005518	4005516	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
@@ -1721,6 +1723,13 @@ i	i	h	i	f	f	f	f	f	f	f	s	s
 4005530	4005516	object/cell/cell.iff	14	0	0	0	1	0	0	0		$|
 4005531	4005516	object/cell/cell.iff	15	0	0	0	1	0	0	0		$|
 4005532	4005516	object/cell/cell.iff	16	0	0	0	1	0	0	0		$|
+44056121	4005520	object/tangible/terminal/terminal_space.iff	4	6.50	0.64	57.63	0.70	0.00	0.71	0.00	space.terminal.terminal_space	$|
+44056122	4005520	object/tangible/terminal/terminal_space.iff	4	-5.68	0.64	57.43	0.72	0.00	-0.69	0.00	space.terminal.terminal_space	$|
+44056120	4005520	object/tangible/terminal/terminal_space.iff	4	0.19	0.64	62.12	0.00	0.00	0.00	0.00	space.terminal.terminal_space	$|
+4265841	4005520	object/tangible/terminal/terminal_newsnet.iff	4	15.42	0.64	54.35	0.71	0.00	-0.70	0.00	systems.gcw.newsnet_terminal	$|
+3795693	4005526	object/tangible/terminal/terminal_space.iff	10	-37.86	1.64	49.20	-0.65	0.00	0.76	0.00	space.terminal.terminal_space	$|
+3795694	4005526	object/tangible/terminal/terminal_space.iff	10	-44.06	1.64	50.20	0.77	0.00	0.64	0.00	space.terminal.terminal_space	$|
+4266020	4005525	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	9	-30.326343536377	1.63942182064056	51.5528259277344	1.00	0.00	1.00	0.00		$|
 4005533	0	object/static/tatooine/rock_spire_skinny_tatooine_style_1.iff	0	1340.31005859375	9.25125026702881	1053.580078125	1	0	0	0		$|
 4005534	0	object/building/tatooine/filler_building_block_64x16_style_02.iff	0	1182.17004394531	7	1108.01000976562	.376253992319107	0	.926517009735107	0	structure.filler.filler	$|
 4005537	0	object/building/tatooine/filler_building_block_64x16_style_01.iff	0	1144.06994628906	7	1038.919921875	.799098372459412	0	-.601200461387634	0	structure.filler.filler	$|
