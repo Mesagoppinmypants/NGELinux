@@ -101,6 +101,30 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 3735506	0	object/tangible/furniture/modern/chair_modern_style_01.iff	0	249.62	2	956.799	0.959662	0	0.281158	0		$|
 4255651	0	object/building/general/talus_aakuan_cave.iff	0	1813.67	46.8926	568.906	3.20E-08	0	1	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/talus/poi_aakuan_cave.iff|$|
 4265355	0	object/building/corellia/starport_corellia.iff	0	383.662	2	1269.17	-0.165038	0	0.986287	0	structure.municipal.starport:theme_park.dungeon.generic_spawner	travel.air_time|0|60|travel.cost|0|150|travel.ground_time|0|300|travel.point_name|4|Nashal Starport|travel.shuttle_available|0|1|travel.version|0|3|spawn_table|4|datatables/spawning/building_spawns/talus_nashal_starport.iff|$|
+17010627	4265355	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+17010628	4265355	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+17010629	4265355	object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+17010630	4265355	object/cell/cell.iff	4	0	0	0	1	0	0	0		$|
+17010631	4265355	object/cell/cell.iff	5	0	0	0	1	0	0	0		$|
+17010632	4265355	object/cell/cell.iff	6	0	0	0	1	0	0	0		$|
+17010633	4265355	object/cell/cell.iff	7	0	0	0	1	0	0	0		$|
+17010634	4265355	object/cell/cell.iff	8	0	0	0	1	0	0	0		$|
+17010635	4265355	object/cell/cell.iff	9	0	0	0	1	0	0	0		$|
+17010636	4265355	object/cell/cell.iff	10	0	0	0	1	0	0	0		$|
+17010637	4265355	object/cell/cell.iff	11	0	0	0	1	0	0	0		$|
+17010638	4265355	object/cell/cell.iff	12	0	0	0	1	0	0	0		$|
+17010639	4265355	object/cell/cell.iff	13	0	0	0	1	0	0	0		$|
+17010640	4265355	object/cell/cell.iff	14	0	0	0	1	0	0	0		$|
+17010641	4265355	object/cell/cell.iff	15	0	0	0	1	0	0	0		$|
+17010642	4265355	object/cell/cell.iff	16	0	0	0	1	0	0	0		$|
+17022177	17010630	object/tangible/terminal/terminal_space.iff	4	5.036217212677	.639421403408051	60.5857276916504	1	0	0	0	space.terminal.terminal_space	$|
+17022178	17010630	object/tangible/terminal/terminal_space.iff	4	5.06129455566406	.639421403408051	59.9869842529297	.00420367019250989	0	.999991238117218	0	space.terminal.terminal_space	$|
+17022179	17010630	object/tangible/terminal/terminal_space.iff	4	-5.76612329483032	.639423787593842	60.6152000427246	1	0	0	0	space.terminal.terminal_space	$|
+17022180	17010630	object/tangible/terminal/terminal_space.iff	4	-5.77036142349243	.639423668384552	60.0164566040039	-.00420371536165476	0	.999991178512573	0	space.terminal.terminal_space	$|
+17022181	17010636	object/tangible/terminal/terminal_space.iff	10	-37.86	1.64	49.20	-0.65	0.00	0.76	0.00	space.terminal.terminal_space	$|
+17022182	17010636	object/tangible/terminal/terminal_space.iff	10	-44.06	1.64	50.20	0.77	0.00	0.64	0.00	space.terminal.terminal_space	$|
+4845459	17010638	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	12	-47.572151184082	2.63941764831543	32.3028450012207	.900447070598602	0	-.434965640306473	0		$|
+2637002	17010640	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	14	-57.0049362182617	.974563241004944	8.4924840927124	0.00	0.00	1.00	0.00	conversation.chassis_npc	$|
 4265372	0	object/building/corellia/cantina_corellia.iff	0	189.396	2	1221.87	1	0	0	0	structure.municipal.cantina:theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/clone_relic/ep3_nashal_cantina.iff|$|
 4265388	0	object/building/corellia/guild_commerce_corellia_style_01.iff	0	409.052	2	1129.5	-0.585743	0	0.810497	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/building_spawns/talus_nashal_commerce_guild.iff|$|
 4265398	0	object/building/corellia/guild_combat_corellia_style_01.iff	0	204.04	9.9	1288.67	0.707108	0	0.707106	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/building_spawns/talus_nashal_war_guild.iff|$|
