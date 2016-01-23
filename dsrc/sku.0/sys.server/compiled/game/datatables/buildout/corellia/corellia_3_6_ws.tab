@@ -107,6 +107,13 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 3005664	0	object/static/structure/corellia/corl_imprv_wall_4x16_s02.iff	0	793.864	83	1170.67	0.37018	0	0.92896	0		$|
 3005665	0	object/static/structure/corellia/corl_imprv_wall_4x32_s02.iff	0	750.99	83	1157.71	0.0591634	0	0.998248	0		$|
 3005666	0	object/building/corellia/hotel_corellia.iff	0	855.139	86	1049.18	0.836026	0	-0.54869	0		$|
+10009853	3005666	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+10009854	3005666	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+10009855	3005666	object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+10009856	3005666	object/cell/cell.iff	4	0	0	0	1	0	0	0		$|
+1491048	10009856	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	4	-1.62112557888031	.999990403652191	.392887890338898	1	0	0	0	conversation.corellia_imperial_dark_trooper	$|
+1491049	0	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	0	825.02514648437	86	1071.58251953125	1	0	0	0	conversation.corellia_privateer_retired_corsec_beggar	$|
+1491047	0	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	0	689.98364257813	86	1053.28491210938	1	0	0	0	conversation.imperial_broker	$|
 3055708	0	object/static/structure/corellia/corl_imprv_wall_4x16_s02.iff	0	663.076	83	976.201	0.870293	0	0.492535	0		$|
 3055709	0	object/static/structure/corellia/corl_stair_medium_s01.iff	0	650.991	78	989.016	0.780707	0	-0.624897	0		$|
 3055710	0	object/static/structure/corellia/corl_imprv_bridge_insert_s01.iff	0	656.358	85.8606	987.813	0.780707	0	-0.624897	0		$|
@@ -457,6 +464,30 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 3695408	0	object/static/item/item_tool_sensor_beacon.iff	0	752.385	86	1242.41	0.99995	0	-0.00999984	0		$|
 3695409	0	object/static/item/item_rifle.iff	0	752.776	86.1188	1243.11	-1.94927e-008	3.16582e-008	0.807558	0.589788		$|
 4255419	0	object/building/corellia/starport_corellia.iff	0	960.296	31	846.22	-0.0157951	0	0.999875	0	structure.municipal.starport	travel.air_time|0|60|travel.cost|0|150|travel.ground_time|0|300|travel.point_name|4|Kor Vella Starport|travel.shuttle_available|0|1|travel.version|0|3|$|
+10009908	4255419	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+10009909	4255419	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+10009910	4255419	object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+10009911	4255419	object/cell/cell.iff	4	0	0	0	1	0	0	0		$|
+10009912	4255419	object/cell/cell.iff	5	0	0	0	1	0	0	0		$|
+10009913	4255419	object/cell/cell.iff	6	0	0	0	1	0	0	0		$|
+10009914	4255419	object/cell/cell.iff	7	0	0	0	1	0	0	0		$|
+10009915	4255419	object/cell/cell.iff	8	0	0	0	1	0	0	0		$|
+10009916	4255419	object/cell/cell.iff	9	0	0	0	1	0	0	0		$|
+10009917	4255419	object/cell/cell.iff	10	0	0	0	1	0	0	0		$|
+10009918	4255419	object/cell/cell.iff	11	0	0	0	1	0	0	0		$|
+10009919	4255419	object/cell/cell.iff	12	0	0	0	1	0	0	0		$|
+10009920	4255419	object/cell/cell.iff	13	0	0	0	1	0	0	0		$|
+10009921	4255419	object/cell/cell.iff	14	0	0	0	1	0	0	0		$|
+10009922	4255419	object/cell/cell.iff	15	0	0	0	1	0	0	0		$|
+10009923	4255419	object/cell/cell.iff	16	0	0	0	1	0	0	0		$|
+10037154	10009911	object/tangible/terminal/terminal_space.iff	4	5.036217212677	.639421403408051	60.5857276916504	1	0	0	0	space.terminal.terminal_space	$|
+10037155	10009911	object/tangible/terminal/terminal_space.iff	4	5.06129455566406	.639421403408051	59.9869842529297	.00420367019250989	0	.999991238117218	0	space.terminal.terminal_space	$|
+10037156	10009911	object/tangible/terminal/terminal_space.iff	4	-5.76612329483032	.639423787593842	60.6152000427246	1	0	0	0	space.terminal.terminal_space	$|
+10038157	10009911	object/tangible/terminal/terminal_space.iff	4	-5.77036142349243	.639423668384552	60.0164566040039	-.00420371536165476	0	.999991178512573	0	space.terminal.terminal_space	$|
+1509598	10009911	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	4	9.95971965789795	.639421999454498	67.7167510986328	0.00	0.00	1.00	0.00	conversation.chassis_npc	$|
+10038158	10009917	object/tangible/terminal/terminal_space.iff	10	-37.86	1.64	49.20	-0.65	0.00	0.76	0.00	space.terminal.terminal_space	$|
+10038159	10009917	object/tangible/terminal/terminal_space.iff	10	-44.06	1.64	50.20	0.77	0.00	0.64	0.00	space.terminal.terminal_space	$|
+3375639	10009919	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	12	-47.572151184082	2.63941764831543	32.3028450012207	.900447070598602	0	-.434965640306473	0		$|
 4255445	0	object/building/corellia/filler_block_corellia_32x16_s01.iff	0	961.263	31.4223	734.784	1	0	0	0		$|
 4255448	0	object/building/corellia/filler_block_corellia_64x32_s01.iff	0	1024.75	30.9953	750.965	0.963771	0	-0.266731	0		$|
 4255455	0	object/building/corellia/filler_block_corellia_64x32_s02.iff	0	986.216	31	968.846	0.984727	0	0.174108	0		$|
