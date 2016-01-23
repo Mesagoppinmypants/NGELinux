@@ -1,6 +1,8 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
 1512719	0	object/building/military/outpost_starport.iff	0	1984.56	37	1957.53	-6.63422e-007	0	1	0	structure.municipal.starport	travel.air_time|0|60|travel.cost|0|150|travel.ground_time|0|300|travel.point_name|4|Imperial Outpost|travel.shuttle_available|0|1|travel.version|0|3|$|
+13006325	1512719	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+13011963	13006325	object/tangible/terminal/terminal_space.iff	1	-7.44324922561646	.146595031023026	-19.2488059997559	1.00	0.00	0.00	0.00	space.terminal.terminal_space	$|
 1512785	0	object/static/structure/general/streetlamp_small_style_01_on.iff	0	1993.89	37	1942.27	0.999388	0	0.0349929	0		$|
 1512786	0	object/static/vehicle/static_lambda_shuttle.iff	0	1984.35	37.048	1937.23	0.706262	0	0.707951	0		$|
 1512787	0	object/static/structure/general/streetlamp_small_style_01_on.iff	0	1972.44	37	1932.48	0.999388	0	0.0349929	0		$|
@@ -73,4 +75,19 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 8735490	0	object/static/structure/general/streetlamp_medium_red_style_01.iff	0	2018.6	37	1983.49	3.48103e-007	0	1	0		$|
 8735493	0	object/static/structure/general/streetlamp_medium_red_style_01.iff	0	1952.6	37	1983.32	3.48103e-007	0	1	0		$|
 8735494	0	object/building/military/military_base_shed_imperial_barracks_s01.iff	0	2016.6	37	1991.43	3.20013e-008	0	1	0		$|
+13006310	8735494	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+13006311	8735494	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+13006312	8735494	object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+13006313	8735494	object/cell/cell.iff	4	0	0	0	1	0	0	0		$|
+13006314	8735494	object/cell/cell.iff	5	0	0	0	1	0	0	0		$|
+13006315	8735494	object/cell/cell.iff	6	0	0	0	1	0	0	0		$|
+7105741	13006312	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	3	-.108932569622993	.125264748930931	-5.36897850036621	1	0	0	0	conversation.corellia_imperial_tier3	$|
 8735515	0	object/building/military/military_base_shed_imperial_style_cantina_s01.iff	0	1950.34	37	1991.4	3.20013e-008	0	1	0		$|
+13006298	8735515	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+13006299	8735515	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+13006300	8735515	object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+13006301	8735515	object/cell/cell.iff	4	0	0	0	1	0	0	0		$|
+13006302	8735515	object/cell/cell.iff	5	0	0	0	1	0	0	0		$|
+13006303	8735515	object/cell/cell.iff	6	0	0	0	1	0	0	0		$|
+7105712	13006300	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	3	-.0827639922499657	.125264748930931	-4.9609375	1	0	0	0	conversation.tatooine_imperial_trainer_2b	$|
+1491025	13006303	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	6	-3.96637201309204	.125265538692474	-4.54358530044556	1	0	0	0	conversation.tatooine_imperial_tier3	$|
