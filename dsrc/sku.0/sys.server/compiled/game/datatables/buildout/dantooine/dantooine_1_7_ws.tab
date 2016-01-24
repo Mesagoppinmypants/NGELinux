@@ -496,4 +496,11 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 8515668	0	object/static/installation/mockup_mining_liquid_harvester_style_1.iff	0	1410.35	46	1447.35	0.707107	0	0.707106	0		$|
 8515669	0	object/static/structure/general/tankfarm_s01.iff	0	1399.18	46	1453.92	3.20E-08	0	1	0		$|
 8515670	0	object/static/structure/general/tankfarm_s01.iff	0	1398.92	46	1437.19	1	0	0	0		$|
-8855664	0	object/building/military/military_base_shed_rebel_style_01.iff	0	1401.18	46	1463.23	1	0	0	0		portalLayoutCrc|0|1376564094|$|
+8855664	0	object/building/military/military_base_shed_rebel_style_01.iff	0	1401.18	46	1463.23	1	0	0	0	structure.municipal.starport	travel.arrival_location|8|-6795 46 5574 dantooine 0|travel.air_time|0|60|travel.cost|0|150|travel.ground_time|0|300|travel.point_name|4|Abandoned Rebel Base|travel.shuttle_available|0|0|travel.version|0|3|portalLayoutCrc|0|1376564094|$|
+12000209	8855664	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+12000210	8855664	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+12000211	8855664	object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+12000212	8855664	object/cell/cell.iff	4	0	0	0	1	0	0	0		$|
+12000213	8855664	object/cell/cell.iff	5	0	0	0	1	0	0	0		$|
+12000214	8855664	object/cell/cell.iff	6	0	0	0	1	0	0	0		$|
+12018360	12000211	object/tangible/terminal/terminal_space.iff	3	-.0326787009835243	.125264689326286	-6	1	0	0	0	space.terminal.terminal_space	$|
