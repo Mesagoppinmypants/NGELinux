@@ -13,6 +13,12 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 3055763	0	object/building/corellia/guild_commerce_corellia_style_01.iff	0	1111.91	290	933.172	-1.16295e-007	0	1	0		$|
 3075352	0	object/building/corellia/guild_combat_corellia_style_01.iff	0	1152.15	300	1149.64	-0.58323	0	0.812307	0		$|
 3075362	0	object/building/corellia/hotel_corellia.iff	0	1030.42	300	1108.85	0.707109	0	0.707105	0		$|
+10019575	3075362	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+10019576	3075362	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+10019577	3075362	object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+10019578	3075362	object/cell/cell.iff	4	0	0	0	1	0	0	0		$|
+1414935	10019578	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	4	.950448870658875	.999995172023773	2.37850046157837	1	0	0	0	conversation.rebel_master_trainer	$|
+1414936	10019578	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	4	1.99067795276642	.999997079372406	2.05679941177368	1	0	0	0	conversation.rebel_master_trooper	$|
 3075373	0	object/building/corellia/skyscraper_corellia_style_04.iff	0	1097.02	300	1276.97	0.707108	0	0.707106	0		$|
 3075377	0	object/building/corellia/skyscraper_corellia_style_05.iff	0	1171.19	300	1355.74	9.52217e-008	0	1	0		$|
 3075405	0	object/building/corellia/guild_university_corellia_style_01.iff	0	1066.04	300	1188.93	0.215983	0	0.976397	0		$|
@@ -320,6 +326,30 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 9555456	0	object/tangible/crafting/station/public_clothing_station.iff	0	1263.57	308	1438.26	-0.235467	0	0.971882	0		$|
 9555462	0	object/tangible/instrument/ommni_box.iff	0	1259.44	308	1428.13	0.286715	0	0.958016	0		$|
 9665352	0	object/building/corellia/starport_corellia.iff	0	1329.14	308	1509.06	-0.236929	0	0.971527	0	structure.municipal.starport	travel.air_time|0|60|travel.cost|0|150|travel.ground_time|0|300|travel.point_name|4|Doaba Guerfel Starport|travel.shuttle_available|0|1|travel.version|0|3|$|
+10020121	9665352	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+10020122	9665352	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+10020123	9665352	object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+10020124	9665352	object/cell/cell.iff	4	0	0	0	1	0	0	0		$|
+10020125	9665352	object/cell/cell.iff	5	0	0	0	1	0	0	0		$|
+10020126	9665352	object/cell/cell.iff	6	0	0	0	1	0	0	0		$|
+10020127	9665352	object/cell/cell.iff	7	0	0	0	1	0	0	0		$|
+10020128	9665352	object/cell/cell.iff	8	0	0	0	1	0	0	0		$|
+10020129	9665352	object/cell/cell.iff	9	0	0	0	1	0	0	0		$|
+10020130	9665352	object/cell/cell.iff	10	0	0	0	1	0	0	0		$|
+10020131	9665352	object/cell/cell.iff	11	0	0	0	1	0	0	0		$|
+10020132	9665352	object/cell/cell.iff	12	0	0	0	1	0	0	0		$|
+10020133	9665352	object/cell/cell.iff	13	0	0	0	1	0	0	0		$|
+10020134	9665352	object/cell/cell.iff	14	0	0	0	1	0	0	0		$|
+10020135	9665352	object/cell/cell.iff	15	0	0	0	1	0	0	0		$|
+10020136	9665352	object/cell/cell.iff	16	0	0	0	1	0	0	0		$|
+10037166	10020124	object/tangible/terminal/terminal_space.iff	4	5.036217212677	.639421403408051	60.5857276916504	1	0	0	0	space.terminal.terminal_space	$|
+10037167	10020124	object/tangible/terminal/terminal_space.iff	4	5.06129455566406	.639421403408051	59.9869842529297	.00420367019250989	0	.999991238117218	0	space.terminal.terminal_space	$|
+10037168	10020124	object/tangible/terminal/terminal_space.iff	4	-5.76612329483032	.639423787593842	60.6152000427246	1	0	0	0	space.terminal.terminal_space	$|
+10038169	10020124	object/tangible/terminal/terminal_space.iff	4	-5.77036142349243	.639423668384552	60.0164566040039	-.00420371536165476	0	.999991178512573	0	space.terminal.terminal_space	$|
+1509591	10020124	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	4	9.95971965789795	.639421999454498	67.7167510986328	0.00	0.00	1.00	0.00	conversation.chassis_npc	$|
+10038170	10020130	object/tangible/terminal/terminal_space.iff	10	-37.86	1.64	49.20	-0.65	0.00	0.76	0.00	space.terminal.terminal_space	$|
+10038171	10020130	object/tangible/terminal/terminal_space.iff	10	-44.06	1.64	50.20	0.77	0.00	0.64	0.00	space.terminal.terminal_space	$|
+5245540	10020132	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	12	-47.572151184082	2.63941764831543	32.3028450012207	.900447070598602	0	-.434965640306473	0		$|
 9775366	0	object/static/structure/general/droid_r5_powerdown.iff	0	1288.11	308	1404.96	0.862001	0	-0.506907	0		$|
 9775370	0	object/static/structure/general/droid_lemedical_powerdown.iff	0	1289.96	308	1408.07	0.745174	0	-0.66687	0		$|
 9825937	0	object/static/structure/corellia/corl_imprv_column_s04.iff	0	468.231	289.143	1875.78	1	0	0	0		$|
