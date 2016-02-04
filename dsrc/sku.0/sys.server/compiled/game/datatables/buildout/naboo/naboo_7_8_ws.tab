@@ -94,9 +94,49 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1741463	0	object/building/naboo/guild_university_naboo_style_01.iff	0	1033.66	-192	661.066	0.372686	0	0.927957	0		$|
 1741473	0	object/building/naboo/hotel_naboo_theed.iff	0	1114.54	-192	667.689	-0.394384	0	0.918946	0		$|
 1741484	0	object/building/naboo/association_hall_civilian_naboo.iff	0	1100.08	-192	593.053	0.92548	0	-0.378797	0		$|
+13028580	1741484	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+13028581	1741484	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+13028582	1741484	object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+13028583	1741484	object/cell/cell.iff	4	0	0	0	1	0	0	0		$|
+13028584	1741484	object/cell/cell.iff	5	0	0	0	1	0	0	0		$|
+13028585	1741484	object/cell/cell.iff	6	0	0	0	1	0	0	0		$|
+13028586	1741484	object/cell/cell.iff	7	0	0	0	1	0	0	0		$|
+13028587	1741484	object/cell/cell.iff	8	0	0	0	1	0	0	0		$|
+13028588	1741484	object/cell/cell.iff	9	0	0	0	1	0	0	0	systems.elevator.button_check	$|
+13028589	1741484	object/cell/cell.iff	10	0	0	0	1	0	0	0		$|
+8346077	13028589	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	10	-.699684262275696	1.52990818023682	-11.0761671066284	1	0	0	0	conversation.naboo_imperial_trainer_1	$|
 1741502	0	object/building/naboo/guild_commerce_naboo_style_01.iff	0	1072.15	-192	557.081	0.92388	0	-0.382683	0		$|
 1741512	0	object/building/naboo/cloning_facility_naboo.iff	0	1235.81	-192	407.563	0.996157	0	-0.0875865	0		$|
+5036496	0	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	0	1113.53466796875	-192	523.03515625	.76484215259552	0	-.644217789173126	0.00		$|
+5036497	0	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	0	1116.814453125	-192	542.84814453125	.76484215259552	0	-.644217729568481	0.00		$|
+91575	0	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	0	1097.19970703125	-192	537.34765625	1	0	0	0	conversation.greeter_kadaara_imperial_officer	$|
+91576	0	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	0	1108.5478515625	-192	565.0087890625	.315322309732437	0	.948984622955322	0	conversation.greeter_kadaara_mistress	$|
 1741535	0	object/building/naboo/starport_naboo.iff	0	1199.29	-192	520.328	0.761613	0	-0.648033	0	structure.municipal.starport:theme_park.dungeon.generic_spawner	travel.air_time|0|60|travel.cost|0|150|travel.ground_time|0|300|travel.point_name|4|Kaadara Starport|travel.shuttle_available|0|1|travel.version|0|3|spawn_table|4|datatables/spawning/building_spawns/kaadara_starport.iff|$|
+13028663	1741535	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+13028664	1741535	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+13028665	1741535	object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+13028666	1741535	object/cell/cell.iff	4	0	0	0	1	0	0	0		$|
+13028667	1741535	object/cell/cell.iff	5	0	0	0	1	0	0	0		$|
+13028668	1741535	object/cell/cell.iff	6	0	0	0	1	0	0	0		$|
+13028669	1741535	object/cell/cell.iff	7	0	0	0	1	0	0	0		$|
+13028670	1741535	object/cell/cell.iff	8	0	0	0	1	0	0	0		$|
+13028671	1741535	object/cell/cell.iff	9	0	0	0	1	0	0	0		$|
+13028672	1741535	object/cell/cell.iff	10	0	0	0	1	0	0	0		$|
+13028673	1741535	object/cell/cell.iff	11	0	0	0	1	0	0	0		$|
+13028674	1741535	object/cell/cell.iff	12	0	0	0	1	0	0	0		$|
+13028675	1741535	object/cell/cell.iff	13	0	0	0	1	0	0	0		$|
+13028676	1741535	object/cell/cell.iff	14	0	0	0	1	0	0	0		$|
+13028677	1741535	object/cell/cell.iff	15	0	0	0	1	0	0	0		$|
+13028678	1741535	object/cell/cell.iff	16	0	0	0	1	0	0	0		$|
+11019480	13028666	object/tangible/terminal/terminal_space.iff	4	1.94578778743744	.639421224594116	61.2369804382324	1.00	0.00	0.00	0.00	space.terminal.terminal_space	$|
+11019481	13028666	object/tangible/terminal/terminal_space.iff	4	-2.39033246040344	.639422535896301	61.2409172058105	1.00	0.00	0.00	0.00	space.terminal.terminal_space	$|
+11019482	13028666	object/tangible/terminal/terminal_space.iff	4	-2.38489127159119	.639422297477722	55.5486907958984	0.00	0.00	1.00	0.00	space.terminal.terminal_space	$|
+11019483	13028666	object/tangible/terminal/terminal_space.iff	4	1.87441527843475	.639420866966248	55.3451156616211	0.00	0.00	1.00	0.00	space.terminal.terminal_space	$|
+4295480	13028666	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	4	9.95971965789795	.639421999454498	67.7167510986328	0.00	0.00	1.00	0.00	conversation.chassis_npc	$|
+4795487	13028671	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	9	-30.326343536377	1.63942182064056	51.5528259277344	1.00	0.00	1.00	0.00		$|
+11019484	13028672	object/tangible/terminal/terminal_space.iff	10	-42.8350028991699	1.63942158222198	51.2345352172852	.461750596761703	0.00	.887011706829071	0.00	space.terminal.terminal_space	$|
+11019485	13028672	object/tangible/terminal/terminal_space.iff	10	-40.694652557373	1.63942241668701	46.6948623657227	1.00	0.00	0.00	0.00	space.terminal.terminal_space	$|
+11019486	13028672	object/tangible/terminal/terminal_space.iff	10	-37.9800796508789	1.63942134380341	49.6453437805176	.70710676908493	0.00	-.707111656665802	0.00	space.terminal.terminal_space	$|
 1741551	0	object/static/structure/tatooine/antenna_tatt_style_2.iff	0	1126.62	-192	555.717	-0.00579701	0	0.999983	0		$|
 1741552	0	object/static/structure/tatooine/antenna_tatt_style_2.iff	0	1118.53	-192	509.927	-0.00579701	0	0.999983	0		$|
 1741553	0	object/building/naboo/shuttleport_naboo.iff	0	1041.24	-192	457.604	0.920007	0	0.391903	0	structure.municipal.starport:planet_map.map_loc	travel.cost|0|200|travel.ground_time|0|300|travel.is_shuttleport|0|1|travel.point_name|4|Kaadara Shuttleport A|travel.shuttle_available|0|1|travel.version|0|3|$|

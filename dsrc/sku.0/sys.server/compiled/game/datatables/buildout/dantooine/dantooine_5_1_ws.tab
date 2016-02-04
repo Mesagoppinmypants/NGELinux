@@ -69,6 +69,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 7515467	0	object/tangible/crafting/station/food_station.iff	0	1591.75	4	1823.02	3.20E-08	0	1	0		$|
 8565352	0	object/building/military/outpost_starport.iff	0	1590	4	1794	1	0	0	0	structure.municipal.starport	travel.air_time|0|60|travel.cost|0|150|travel.ground_time|0|300|travel.point_name|4|Pirate Outpost|travel.shuttle_available|0|1|travel.version|0|3|portalLayoutCrc|0|-688757533|$|
 8565353	8565352	object/cell/cell.iff	1	0	0	0	0	0	0	0		$|
+3975464	8565353	object/tangible/terminal/terminal_space.iff	1	-7.44324922561646	.146595031023026	-19.2488059997559	1.00	0.00	0.00	0.00	space.terminal.terminal_space	$|
 8565368	0	object/building/military/outpost_shed.iff	0	1594	4	1764	0.707108	0	0.707105	0	planet_map.map_loc	healing.canhealshock|0|1|safeLogout|0|1|planetMap.category|4|hotel|portalLayoutCrc|0|1376564094|$|
 8565369	8565368	object/cell/cell.iff	1	0	0	0	0	0	0	0		$|
 8565370	8565368	object/cell/cell.iff	2	0	0	0	0	0	0	0		$|

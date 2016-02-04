@@ -1,6 +1,8 @@
 # Game Server Readme
 
-Please put in a pull request for any and all useful changes and fixes you make! It is advisable to use a VPN and username you don't normally use online, to protect your identity. The focus of this project is Linux, but it also supports Windows.
+Please put in a pull request for any and all useful changes and fixes you make! It is advisable to use a VPN and username you don't normally use online, to protect your identity. The focus of this project is Linux, but it may work on Windows.
+
+We are not associated with SWGLegends or SWGReborn. They may be using some of our work but we do not have any association.
 
 ## Emulators
 
@@ -67,5 +69,3 @@ https://docs.google.com/uc?export=download&confirm=sfMW&id=0B8qYSmfamAxsalhBNG5x
 
 Comes with newest libs and buildtools, and no prebuilded server/empty db with precreated users.
 You have to build your own server first before you can start it. Follow the instructions of the sid_readme.md
-
-

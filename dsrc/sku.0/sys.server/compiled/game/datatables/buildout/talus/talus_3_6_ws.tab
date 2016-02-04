@@ -37,6 +37,14 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 4965409	0	object/building/military/small_imperial_cloning_facility_s02.iff	0	1904.79	20	304.496	0	0	1	0		$|
 4965416	0	object/building/military/military_base_shed_imperial_style_bank_s01.iff	0	1920.48	20	304.517	0	0	1	0		$|
 4965430	0	object/building/military/military_base_shed_imperial_style_officer_s01.iff	0	1912.71	20	216.363	0.99995	0	-0.01	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/building_spawns/talus_imp_outpost_shed.iff|$|
+17003120	4965430	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+17003121	4965430	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+17003122	4965430	object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+17003123	4965430	object/cell/cell.iff	4	0	0	0	1	0	0	0		$|
+17003124	4965430	object/cell/cell.iff	5	0	0	0	1	0	0	0		$|
+17003125	4965430	object/cell/cell.iff	6	0	0	0	1	0	0	0		$|
+4245477	17003122	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	3	.0243636313825846	.125264689326286	-5.4229588508606	1	0	0	0	conversation.corellia_imperial_trainer_1	$|
+7355461	17003125	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	6	-4.1695818901062	.125265538692474	-4.25848960876465	1	0	0	0	conversation.corellia_imperial_trainer_2	$|
 4965439	0	object/building/military/military_base_shed_imperial_style_cantina_s01.iff	0	1932.93	20	228.931	0.707109	0	-0.707104	0		$|
 4965460	0	object/static/structure/military/military_wall_strong_imperial_32_style_01.iff	0	1852.45	20	182.579	-0.593499	0	0.804835	0		$|
 4965461	0	object/static/structure/corellia/corl_power_bubble_node.iff	0	1961.93	20	238.931	1	0	0	0		$|
@@ -216,6 +224,8 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 4965636	0	object/static/installation/mockup_power_generator_fusion_style_1.iff	0	1973.93	20	231.931	0	0	1	0		$|
 4965637	0	object/static/structure/military/military_column_strong_imperial_style_01.iff	0	1785.61	20	252.094	1	0	0	0		$|
 4965638	0	object/building/military/outpost_starport.iff	0	1884.24	20	253.514	0.707107	0	0.707106	0	structure.municipal.starport	travel.air_time|0|60|travel.cost|0|150|travel.ground_time|0|300|travel.point_name|4|Imperial Outpost|travel.shuttle_available|0|1|travel.version|0|3|$|
+17003066	4965638	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+17022170	17003066	object/tangible/terminal/terminal_space.iff	1	-7.44324922561646	.146595031023026	-19.2488059997559	1.00	0.00	0.00	0.00	space.terminal.terminal_space	$|
 5315409	0	object/static/structure/corellia/corl_power_transformer_s02.iff	0	1814.66	20	260.999	0.922997	0	-0.384808	0		$|
 5315413	0	object/static/structure/tatooine/antenna_tatt_style_1.iff	0	1817.03	20	258.895	-0.693111	0	0.720831	0		$|
 5315414	0	object/static/structure/corellia/corl_power_transformer_s02.iff	0	1871.29	20	341.115	0.988771	0	0.149438	0		$|

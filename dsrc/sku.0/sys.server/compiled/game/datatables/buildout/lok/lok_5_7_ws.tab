@@ -250,6 +250,8 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 4105717	0	object/tangible/terminal/terminal_mission.iff	0	403.74	12	1030.4	1	0	0	0		$|
 4105719	0	object/tangible/terminal/terminal_mission.iff	0	400.898	12	1030.4	1	0	0	0		$|
 4705364	0	object/building/military/outpost_starport.iff	0	458.587	9	1398.2	3.20E-08	0	1	0	structure.municipal.starport	travel.air_time|0|60|travel.cost|0|150|travel.ground_time|0|300|travel.point_name|4|Nym's Stronghold|travel.shuttle_available|0|1|travel.version|0|3|$|
+22000894	4705364	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+22013764	22000894	object/tangible/terminal/terminal_space.iff	1	-7.44324922561646	.146595031023026	-19.2488059997559	1.00	0.00	0.00	0.00	space.terminal.terminal_space	$|
 4705366	0	object/tangible/terminal/terminal_bazaar.iff	0	459.197	8.75554	1410.64	-0.00999987	0	0.99995	0		$|
 4705367	0	object/tangible/terminal/terminal_bazaar.iff	0	461.661	8.76014	1410.66	0	0	1	0		$|
 4705368	0	object/static/item/item_container_inorganic_minerals.iff	0	467.888	8.75985	1410.46	1	0	0	0		$|
@@ -302,6 +304,19 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 6595494	0	object/static/structure/tatooine/debris_tatt_crate_1.iff	0	2006.48	12.817	858.028	0.965127	0.151214	0.213524	-0.00848719		$|
 6595495	0	object/static/structure/tatooine/debris_tatt_crate_metal_1.iff	0	1998.21	13.1023	862.818	0.674876	0.737931	0	0		$|
 6595508	0	object/building/lok/nym_stronghold.iff	0	475.129	12	693.65	1	0	0	0	theme_park.nym.stronghold	$|
+22000606	6595508	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+22000607	6595508	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+22000608	6595508	object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+22000609	6595508	object/cell/cell.iff	4	0	0	0	1	0	0	0		$|
+22000610	6595508	object/cell/cell.iff	5	0	0	0	1	0	0	0		$|
+22000611	6595508	object/cell/cell.iff	6	0	0	0	1	0	0	0		$|
+22000612	6595508	object/cell/cell.iff	7	0	0	0	1	0	0	0		$|
+22000613	6595508	object/cell/cell.iff	8	0	0	0	1	0	0	0		$|
+22000614	6595508	object/cell/cell.iff	9	0	0	0	1	0	0	0		$|
+22000615	6595508	object/cell/cell.iff	10	0	0	0	1	0	0	0		$|
+22000616	6595508	object/cell/cell.iff	11	0	0	0	1	0	0	0		$|
+4116123	22000608	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	3	-1.70902168750763	4.07819747924805	-10.1040191650391	1	0	0	0	conversation.lok_rebel_trainer_2	$|
+5146158	22000611	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	6	-24.9017238616943	4.22323799133301	-36.7531318664551	1	0	0	0	conversation.nym_technician_1	$|
 7805582	0	object/static/structure/tatooine/wall_pristine_tatooine_tall_style_01.iff	0	516.05	11.9454	864.536	0.250018	0	0.968241	0		$|
 7805583	0	object/static/structure/tatooine/pillar_pristine_tall_style_01.iff	0	520.739	11.9098	857.614	0.856318	0	0.51645	0		$|
 7805586	0	object/static/structure/tatooine/wall_pristine_tatooine_tall_style_01.iff	0	369.384	11.9133	760.756	1	0	0	0		$|
@@ -334,7 +349,34 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 7895607	0	object/tangible/furniture/all/frn_all_professor_desk.iff	0	363.19	11.8894	1006.78	1	0	0	0		$|
 7895608	0	object/static/item/item_tech_console_sectional_a.iff	0	360.273	11.6233	1008.6	0.707107	0	0.707106	0		$|
 8145352	0	object/building/tatooine/hotel_tatooine_style_01.iff	0	419.977	12	1010.75	1	0	0	0		$|
+22000851	8145352	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+22000852	8145352	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+22000853	8145352	object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+22000854	8145352	object/cell/cell.iff	4	0	0	0	1	0	0	0		$|
+22000855	8145352	object/cell/cell.iff	5	0	0	0	1	0	0	0		$|
+22000856	8145352	object/cell/cell.iff	6	0	0	0	1	0	0	0		$|
+22000857	8145352	object/cell/cell.iff	7	0	0	0	1	0	0	0		$|
+22000858	8145352	object/cell/cell.iff	8	0	0	0	1	0	0	0		$|
+22000859	8145352	object/cell/cell.iff	9	0	0	0	1	0	0	0		$|
+22000860	8145352	object/cell/cell.iff	10	0	0	0	1	0	0	0		$|
+4485392	22000859	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	9	-13.4374876022339	1.60000061988831	-16.4439811706543	1	0	0	0	conversation.corellia_rebel_tier4	$|
 8145375	0	object/building/tatooine/cantina_tatooine.iff	0	499.718	11.88	968.887	0.945784	0	-0.324796	0	theme_park.lok.cantina:planet_map.map_loc:structure.municipal.cantina:theme_park.dungeon.empire_day_interior_npc_spawner	healing.canhealshock|0|1|safeLogout|0|1|empire_day_spawn_table|4|datatables/spawning/building_spawns/empire_day_rebel_nyms.iff|$|
+22000735	8145375	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
+22000736	8145375	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
+22000737	8145375	object/cell/cell.iff	3	0	0	0	1	0	0	0		$|
+22000738	8145375	object/cell/cell.iff	4	0	0	0	1	0	0	0		$|
+22000739	8145375	object/cell/cell.iff	5	0	0	0	1	0	0	0		$|
+22000740	8145375	object/cell/cell.iff	6	0	0	0	1	0	0	0		$|
+22000741	8145375	object/cell/cell.iff	7	0	0	0	1	0	0	0		$|
+22000742	8145375	object/cell/cell.iff	8	0	0	0	1	0	0	0		$|
+22000743	8145375	object/cell/cell.iff	9	0	0	0	1	0	0	0		$|
+22000744	8145375	object/cell/cell.iff	10	0	0	0	1	0	0	0		$|
+22000745	8145375	object/cell/cell.iff	11	0	0	0	1	0	0	0		$|
+22000746	8145375	object/cell/cell.iff	12	0	0	0	1	0	0	0		$|
+22000747	8145375	object/cell/cell.iff	13	0	0	0	1	0	0	0		$|
+22000748	8145375	object/cell/cell.iff	14	0	0	0	1	0	0	0		$|
+22000749	8145375	object/cell/cell.iff	15	0	0	0	1	0	0	0		$|
+4116147	22000738	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	4	19.7941703796387	-.894995748996735	-19.5337619781494	1	0	0	0	conversation.corellia_privateer_tier3	$|
 8145391	0	object/static/structure/tatooine/wall_pristine_tatooine_large_style_01.iff	0	538.801	11.8321	982.327	0.310194	0	0.950673	0		$|
 8145392	0	object/static/structure/tatooine/pillar_pristine_large_style_01.iff	0	541.855	11.7171	978.919	0.795843	0	0.605503	0		$|
 8655556	0	object/static/structure/tatooine/wall_pristine_tatooine_tall_style_01.iff	0	508.229	11.9537	878.759	0.250018	0	0.968241	0		$|
@@ -404,3 +446,5 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 9685928	0	object/tangible/camp/camp_lawn_chair.iff	0	2001.32	12.8754	860.191	-0.392153	-0.459029	0.716474	0.349533		$|
 9685929	0	object/tangible/camp/camp_stool_tall.iff	0	1998.77	12.9901	862.275	-0.571792	0.110275	0.358485	0.729645		$|
 2745864	0	object/building/tatooine/hospital_tatooine_style01.iff	0	583.936	11.89	1033.62	0.617374	0	0.78667	0		$|
+7855900	0	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	0	481.764465332031	23	863.86669921875	1	0	0	0	conversation.nym_technician_3	$|
+1442996	0	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	0	393.080413818359	12.0066385269165	898.4453125	1	0	0	0	conversation.nym_technician_2	$|

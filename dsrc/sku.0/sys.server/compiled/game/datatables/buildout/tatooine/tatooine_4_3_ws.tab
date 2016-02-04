@@ -81,6 +81,9 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 926481	926472	object/cell/cell.iff	9	0	0	0	1	0	0	0		$|
 926482	926472	object/cell/cell.iff	10	0	0	0	1	0	0	0		$|
 926483	926472	object/cell/cell.iff	11	0	0	0	1	0	0	0		$|
+3795757	926480	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	8	-22.3147354125977	3.22323703765869	26.7326011657715	0.00	1.00	.382683455944061	0.00	conversation.tatooine_imperial_trainer_2	$|
+1443017	0	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	0	923.40795898437	12.1958799362183	474.27197265625	.283662170171738	0	.958924293518066	0	conversation.imperial_broker	$|
+4275655	0	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	0	874.07763671875	12.00	448.92041015625	1.00	0	0	0	conversation.privateer_broker	$|
 1026824	0	object/building/tatooine/starport_tatooine.iff	0	671.846	12	519.774	0.646043	0	0.763301	0	structure.municipal.starport	travel.air_time|0|60|travel.cost|0|150|travel.ground_time|0|300|travel.point_name|4|Bestine Starport|travel.shuttle_available|0|1|travel.version|0|3|$|
 1026825	1026824	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
 1026826	1026824	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
@@ -101,8 +104,10 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1102713	1026831	object/tangible/collection/plant_08.iff	7	34.2200012207031	.639999985694885	40.4700012207031	0	0	1	0	systems.collections.consume_click	collection.slotName|4|col_plant_01:plant_08|$|
 1279069	1026828	object/tangible/terminal/terminal_space.iff	4	6.50	0.64	57.63	0.70	0.00	0.71	0.00	space.terminal.terminal_space	$|
 1279070	1026828	object/tangible/terminal/terminal_space.iff	4	-5.68	0.64	57.43	0.72	0.00	-0.69	0.00	space.terminal.terminal_space	$|
-1279068	1026828	object/tangible/terminal/terminal_space.iff	4	0.19	0.64	62.12	-0.01	0.00	1.00	0.00	space.terminal.terminal_space	$|
+1279068	1026828	object/tangible/terminal/terminal_space.iff	4	0.19	0.64	62.12	0.00	0.00	0.00	0.00	space.terminal.terminal_space	$|
 4265835	1026828	object/tangible/terminal/terminal_newsnet.iff	4	15.42	0.64	54.35	0.71	0.00	-0.70	0.00	systems.gcw.newsnet_terminal	$|
+3795681	1026828	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	4	2.19	0.64	67.12	-0.01	0.00	1.00	0.00	conversation.chassis_npc	$|
+4266055	1026833	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	9	-30.326343536377	1.63942182064056	51.5528259277344	1.00	0.00	1.00	0.00		$|
 1102713	1026831	object/tangible/collection/plant_08.iff	7	34.22	0.64	40.47	0.00	0.00	1.00	0.00		$|
 3795676	1026834	object/tangible/terminal/terminal_space.iff	10	-37.86	1.64	49.20	-0.65	0.00	0.76	0.00	space.terminal.terminal_space	$|
 3795677	1026834	object/tangible/terminal/terminal_space.iff	10	-44.06	1.64	50.20	0.77	0.00	0.64	0.00	space.terminal.terminal_space	$|
@@ -336,6 +341,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1028605	1028590	object/cell/cell.iff	15	0	0	0	1	0	0	0		$|
 1028606	1028590	object/cell/cell.iff	16	0	0	0	1	0	0	0		$|
 1028607	1028590	object/cell/cell.iff	17	0	0	0	1	0	0	0		$|
+5566043	1028600	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	10	.224280998110771	1.75	-14.8251876831055	1.00	0.00	.382683455944061	0.00	conversation.tatooine_imperial_trainer_1	$|
 1028644	0	object/building/tatooine/cantina_tatooine.iff	0	643.74	12	427.231	0.986156	0	0.165823	0		$|
 1028645	1028644	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
 1028646	1028644	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
@@ -655,6 +661,8 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1223853	1223845	object/cell/cell.iff	8	0	0	0	1	0	0	0		$|
 1223854	1223845	object/cell/cell.iff	9	0	0	0	1	0	0	0		$|
 1223855	1223845	object/cell/cell.iff	10	0	0	0	1	0	0	0		$|
+1443039	1223851	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	6	-20.7998313903809	1.60000097751617	8.12963581085205	.70710676908493	0.00	-.707106709480286	0.00	conversation.tatooine_privateer_trainer_1	$|
+1443040	1223851	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	6	-22.3108310699463	1.60000097751617	5.93958282470703	1	0.00	0.00	0.00	conversation.tatooine_privateer_trainer_1	$|
 1223861	0	object/static/structure/tatooine/wall_cleft_tatooine_large_style_01.iff	0	837.25	12	596.11	0.737395	0	0.675462	0		$|
 1223863	0	object/static/structure/tatooine/pillar_damaged_large_style_01.iff	0	842.039	12	596.273	0.737395	0	0.675462	0		$|
 1223864	0	object/static/structure/tatooine/pillar_pristine_large_style_01.iff	0	833.274	12	595.578	0.737395	0	0.675462	0		$|
