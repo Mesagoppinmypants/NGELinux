@@ -108,7 +108,7 @@ if [[ $response =~ ^(yes|y| ) ]]; then
 
 	read -p "Do you wanna use multicore scripts or the safe option? (multi/safe) " response
 	 response=${response,,}
-	if [[ $response =~ ^(multi|multithread| ) ]]; then
+	if [[ $response =~ ^(multi|m| ) ]]; then
 	  $basedir/utils/mocha/prepare_all_scripts_multi.sh $basedir/dsrc/sku.0/sys.server/compiled/game/script
           $basedir/utils/build_java_multi.sh
           $basedir/utils/build_miff.sh
