@@ -106,12 +106,21 @@ if [[ $response =~ ^(yes|y| ) ]]; then
 	oldPATH=$PATH
 	PATH=$basedir/build/bin:$PATH
 
-	
-	$basedir/utils/mocha/prepare_all_scripts.sh $basedir/dsrc/sku.0/sys.server/compiled/game/script
-	$basedir/utils/build_java.sh
-	$basedir/utils/build_miff.sh
-	$basedir/utils/build_tab.sh
-	$basedir/utils/build_tpf.sh
+	read -p "Do you wanna use multicore scripts or the safe option? (multi/safe) " response
+	 response=${response,,}
+	if [[ $response =~ ^(multi|multithread| ) ]]; then
+	  $basedir/utils/mocha/prepare_all_scripts_multi.sh $basedir/dsrc/sku.0/sys.server/compiled/game/script
+          $basedir/utils/build_java_multi.sh
+          $basedir/utils/build_miff.sh
+          $basedir/utils/build_tab_multi.sh
+          $basedir/utils/build_tpf_multi.sh
+	else
+          $basedir/utils/mocha/prepare_all_scripts.sh $basedir/dsrc/sku.0/sys.server/compiled/game/script
+	  $basedir/utils/build_java.sh
+	  $basedir/utils/build_miff.sh
+	  $basedir/utils/build_tab.sh
+	  $basedir/utils/build_tpf.sh
+	fi
 
 	$basedir/utils/build_object_template_crc_string_tables.py
 	$basedir/utils/build_quest_crc_string_tables.py
