@@ -8,7 +8,6 @@ i=0
 filenames=$(find $1 -type f \( -name '*.script' -o -name '*.scriptlib' \) -not -path "*/.deps/*")
 current=0
 total=$(ls ${filenames[@]} | wc -l)
-jobs=$(ps aux | grep "script_prep2.py" | wc -l) 
 
 compile () {
         OFILENAME=${filename//.scriptlib/.java}
@@ -30,7 +29,7 @@ for filename in $filenames; do
     i=$(( (i+1) %4 ))
     perc=$(bc -l <<< "scale=0; $current*100/$total")
     printf "\rConverting .scripts [${spinstr:$i:1}] $perc%%"
-	while [ $jobs -ge 50 ]
+	while [ `jobs | wc -l` -ge 50 ]
 	do
 		sleep 5
 	done
