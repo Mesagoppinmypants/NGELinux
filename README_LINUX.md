@@ -61,7 +61,7 @@ If you get errors about a CFLAG, remove the offending cflag from src/CMakeLists.
 Add preload files:
 
     cd exe/linux
-    fiind ../../data/sku.0/sys.server/compiled/game/object/ -name \"*.iff\" > objectTemplates.plf
+    find ../../data/sku.0/sys.server/compiled/game/object/ -name \"*.iff\" > objectTemplates.plf
     find ../../data/sku.0/sys.server/compiled/game/datatables/ -name \"*.iff\" > datatables.plf
 
 ### Oracle Access
