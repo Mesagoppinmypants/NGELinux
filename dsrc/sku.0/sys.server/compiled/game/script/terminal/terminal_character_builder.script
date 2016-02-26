@@ -200,7 +200,10 @@ const string[] VEHICLE_OPTIONS = {
 										"Barc Speeder",
 										"AV21",
 										"X31",
-										"Flash Speeder"
+										"Flash Speeder",
+										"Mecho Chair",
+										"Sith Speeder",
+										"Merr-Sonn JT-12 Jetpack"
 									};
 const string[] MOUNT_OPTIONS = {
 										"Carrion Spat",
@@ -1508,7 +1511,8 @@ const string[] AURILIA_CRYSTALS = {
 				};
 
 const string[] CRAFTING_SUIT = {
-					"Blix's Ultra Crafting Suit"
+					"Blixtev's Ultra Crafting Suit"
+					"Blixtev's Body Spray"
 				};
 
 				
@@ -2775,41 +2779,28 @@ messageHandler handleVehicleSelect()
 			sendSystemMessageTestingOnly(player, "XP38 Landspeeder Deed Issued.");
 			break;
 		case 6: //Barc Speeder
-			if(isGod(player))
-			{
-				createObject("object/tangible/deed/vehicle_deed/barc_speeder_deed.iff", pInv, "");
-				sendSystemMessageTestingOnly(player, "Barc Speeder Deed Issued.");
-			}
-			else
-			{
-				sendSystemMessageTestingOnly(player, "You Must be in God Mode to enjoy the BARC Speeder!");
-			}
+			createObject("object/tangible/deed/vehicle_deed/barc_speeder_deed.iff", pInv, "");
+			sendSystemMessageTestingOnly(player, "Barc Speeder Deed Issued.");
 			break;
 		case 7: //AV21
-			if(isGod(player))
-			{
-				createObject("object/tangible/deed/vehicle_deed/landspeeder_av21_deed.iff", pInv, "");
-				sendSystemMessageTestingOnly(player, "AV21 Deed Issued.");
-			}
-			else
-			{
-				sendSystemMessageTestingOnly(player, "You Must be in God Mode to enjoy the AV21 Speeder!");
-			}
+			createObject("object/tangible/deed/vehicle_deed/landspeeder_av21_deed.iff", pInv, "");
+			sendSystemMessageTestingOnly(player, "AV21 Deed Issued.");
 			break;
 		case 8: //X31
 			createObject("object/tangible/deed/vehicle_deed/landspeeder_x31_deed.iff", pInv, "");
 			sendSystemMessageTestingOnly(player, "X31 Deed Issued.");
 			break;
-		case 9: //Flash Speeder
-			if(isGod(player))
-			{
-				createObject("object/tangible/deed/vehicle_deed/speederbike_flash_deed.iff", pInv, "");
-				sendSystemMessageTestingOnly(player, "Flash Speeder Deed Issued.");
-			}
-			else
-			{
-				sendSystemMessageTestingOnly(player, "You Must be in God Mode to enjoy the Flash Speeder!");
-			}
+		case 9: //Hover Chair
+			createObject("item_tcg_loot_reward_series1_mechno_chair", pInv, "");
+			sendSystemMessageTestingOnly(player, "Mecho Chair Issued");
+			break;
+		case 10: //Sith Speeder
+			static_item.createNewItemFunction("tem_tcg_loot_reward_series1_sith_speeder",pInv);
+			sendSystemMessageTestingOnly(player, "Sith Speeder Issued.");
+			break;
+		case 11: //Merr-Sonn JT-12 Jetpack
+			static_item.createNewItemFunction("item_tcg_merr_sonn_jt12_jetpack_deed",pInv);
+			sendSystemMessageTestingOnly(player, "Merr-Sonn JT-12 Jetpack");
 			break;
 		default:
 			cleanScriptVars(player);
@@ -7446,9 +7437,9 @@ messageHandler handleMiscSelect()
 			buff.applyBuff((player), "event_ewok_berry", 7200);
 			buff.applyBuff((player), "forceCrystalHealth", 7200);
 			buff.applyBuff((player), "forceCrystalForce", 7200);
-												
 			buff.applyBuff((player), "frogBuff", 7200);
 			sendSystemMessageTestingOnly(player, "Buffs granted.");
+			
 		default:
 			cleanScriptVars(player);
 			return SCRIPT_CONTINUE;
