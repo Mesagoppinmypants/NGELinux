@@ -201,7 +201,7 @@ const string[] VEHICLE_OPTIONS = {
 										"AV21",
 										"X31",
 										"Flash Speeder",
-										"Mecho Chair",
+										"Mechno Chair",
 										"Sith Speeder",
 										"Merr-Sonn JT-12 Jetpack"
 									};
@@ -2791,7 +2791,7 @@ messageHandler handleVehicleSelect()
 			sendSystemMessageTestingOnly(player, "X31 Deed Issued.");
 			break;
 		case 9: //Hover Chair
-			createObject("item_tcg_loot_reward_series1_mechno_chair", pInv, "");
+			static_item.createNewItemFunction("item_tcg_loot_reward_series1_mechno_chair",pInv);
 			sendSystemMessageTestingOnly(player, "Mecho Chair Issued");
 			break;
 		case 10: //Sith Speeder
