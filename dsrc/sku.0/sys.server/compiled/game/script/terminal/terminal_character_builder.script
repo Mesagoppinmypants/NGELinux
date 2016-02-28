@@ -658,7 +658,8 @@ const string[] DEED_OPTIONS = {
 										"Fusion Reactor",
 										"Corellia City Pack",
 										"Naboo City Pack",
-										"Tatooine City Pack"
+										"Tatooine City Pack",
+										"TCG Houses"
 
 									};
 
@@ -4756,6 +4757,19 @@ messageHandler handleDeedSelect()
 			createObject("object/tangible/deed/city_deed/garden_tatooine_sml_01_deed.iff", pInv, "");
 			sendSystemMessageTestingOnly(player, "Tatooine City Pack Created");
 			break;
+		case 18;
+			//TCG House Pack (barn is broken)
+			static_item.createNewItemFunction("item_tcg_loot_reward_series1_diner",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series3_sith_meditation_room_deed",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series3_jedi_meditation_room_deed",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series4_relaxation_pool_deed_02_01",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series5_player_house_hangar",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series5_player_house_atat",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series6_deed_emperor_spire",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series6_deed_rebel_spire",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series7_deed_commando_bunker",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series7_deed_vip_bunker",pInv);
+			sendSystemMessageTestingOnly(player, "TCG House Pack Created");
 		default:
 			cleanScriptVars(player);
 			return SCRIPT_CONTINUE;
