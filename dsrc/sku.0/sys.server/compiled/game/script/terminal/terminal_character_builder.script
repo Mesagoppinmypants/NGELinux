@@ -2925,7 +2925,7 @@ messageHandler handleVehicleSelect()
 			sendSystemMessageTestingOnly(player, "Mecho Chair Issued");
 			break;
 		case 10: //Sith Speeder
-			static_item.createNewItemFunction("tem_tcg_loot_reward_series1_sith_speeder",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series1_sith_speeder",pInv);
 			sendSystemMessageTestingOnly(player, "Sith Speeder Issued.");
 			break;
 		case 11: //Merr-Sonn JT-12 Jetpack
