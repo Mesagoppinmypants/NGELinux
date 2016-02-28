@@ -98,7 +98,7 @@ commandHandler cmdGenerateCraftedItem()
 	obj_id inventory = utils.getInventoryContainer(creationTarget);
 
 
-	//verify target inventory isn't null, then create object
+	//verify target inventory isnt null, then create object
 	if ( inventory != null )
 	{
 		obj_id item = makeCraftedItem(schematic, attributePercentage, inventory);
