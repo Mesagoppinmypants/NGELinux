@@ -203,7 +203,10 @@ const string[] VEHICLE_OPTIONS = {
 										"Flash Speeder",
 										"Mechno Chair",
 										"Sith Speeder",
-										"Merr-Sonn JT-12 Jetpack"
+										"Merr-Sonn JT-12 Jetpack",
+										"RIC-920",
+										"Republic Gunship",
+										"XJ-2 Landpeeder
 									};
 const string[] MOUNT_OPTIONS = {
 										"Carrion Spat",
@@ -2928,6 +2931,17 @@ messageHandler handleVehicleSelect()
 		case 11: //Merr-Sonn JT-12 Jetpack
 			static_item.createNewItemFunction("item_tcg_merr_sonn_jt12_jetpack_deed",pInv);
 			sendSystemMessageTestingOnly(player, "Merr-Sonn JT-12 Jetpack");
+			break;
+		case 12: //RIC-920
+			static_item.createNewItemFunction("item_tcg_loot_reward_series6_ric_920_speeder",pInv);
+			sendSystemMessageTestingOnly(player, "RIC-920 Issued");
+			break;
+		case 13: //Republic Gunship
+			static_item.createNewItemFunction("item_tcg_loot_reward_series7_buildreward_republic_gunship",pInv);
+			sendSystemMessageTestingOnly(player, "Republic Gunship Issued");
+			break;
+			static_item.createNewItemFunction("item_tcg_loot_reward_series1_organa_speeder",pInv);
+			sendSystemMessageTestingOnly(player, "XJ-2 Issued");
 			break;
 		default:
 			cleanScriptVars(player);
