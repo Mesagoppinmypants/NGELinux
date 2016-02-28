@@ -9611,7 +9611,7 @@ messageHandler handleCrystalSelect()
 			case 0:
 				for (int i = 0; i < 4; i++)
 				{
-					jedi.createColorCrystal(pInv, rand(0, 11));
+					jedi.createColorCrystal(pInv, rand(0, 31));
 				}
 				sendSystemMessageTestingOnly(player, "Color Crystals Issued!");
 				break;
