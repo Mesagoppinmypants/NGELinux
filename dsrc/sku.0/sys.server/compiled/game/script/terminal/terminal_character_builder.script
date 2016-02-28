@@ -1006,6 +1006,7 @@ const string[] MISC_OPTIONS = {
 										"Synapse Focus Crystal",
 										"Mustafarian Injector",
 										"Naboo Signaling Unit",
+										"Custom Drink",
 										"Grant Buffs"
 									};
 const string[] MEDICINE_OPTIONS = {
@@ -7564,7 +7565,25 @@ messageHandler handleMiscSelect()
 			static_item.createNewItemFunction("item_tcg_loot_reward_series5_signal_unit", pInv);
 			sendSystemMessageTestingOnly(player, "Naboo Signaling Unit Issued");
 			break;
-		case 15:	
+		case 15: //drink 2 op
+			if (isGod(player))
+			{
+				obj_id juice = createObject("object/tangible/food/crafted/drink_blue_milk.iff", pInv, "");
+				setCount(juice, 3);
+				setObjVar(juice, "buffName", crystal_buff);
+				setObjVar(juice, "duration", 7200.f);
+				attachScript(juice, "item.special.nomove");
+				setObjVar(juice, "noTrade", 1);
+				sendSystemMessageTestingOnly(player, "Diabetes given.");
+				break;
+			}
+			else
+			{
+				sendSystemMessageTestingOnly(player, "You Must be in God to enjoy the diabetes!");
+				
+			}
+			
+		case 16:	
 			float currentBuffTime = performance.inspireGetMaxDuration(player);
 			buff.applyBuff(player, "buildabuff_inspiration", 7200);
 			utils.setScriptVar(player, "performance.buildabuff.buffComponentKeys", buffComponentKeys);
