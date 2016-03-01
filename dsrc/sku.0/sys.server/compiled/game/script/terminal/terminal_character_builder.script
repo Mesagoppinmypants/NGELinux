@@ -1644,7 +1644,6 @@ const string[] AURILIA_CRYSTALS = {
 
 const string[] CRAFTING_SUIT = {
 					"Blixtev's Ultra Crafting Suit"
-					"Blixtev's Body Spray"
 				};
 
 				
@@ -2942,6 +2941,7 @@ messageHandler handleVehicleSelect()
 			static_item.createNewItemFunction("item_tcg_loot_reward_series7_buildreward_republic_gunship",pInv);
 			sendSystemMessageTestingOnly(player, "Republic Gunship Issued");
 			break;
+		case 14: // XJ-2
 			static_item.createNewItemFunction("item_tcg_loot_reward_series1_organa_speeder",pInv);
 			sendSystemMessageTestingOnly(player, "XJ-2 Issued");
 			break;
@@ -7566,23 +7566,14 @@ messageHandler handleMiscSelect()
 			sendSystemMessageTestingOnly(player, "Naboo Signaling Unit Issued");
 			break;
 		case 15: //drink 2 op
-			if (isGod(player))
-			{
-				obj_id juice = createObject("object/tangible/food/crafted/drink_blue_milk.iff", pInv, "");
-				setCount(juice, 3);
-				setObjVar(juice, "buffName", crystal_buff);
-				setObjVar(juice, "duration", 7200.f);
-				attachScript(juice, "item.special.nomove");
-				setObjVar(juice, "noTrade", 1);
-				sendSystemMessageTestingOnly(player, "Diabetes given.");
-				break;
-			}
-			else
-			{
-				sendSystemMessageTestingOnly(player, "You Must be in God to enjoy the diabetes!");
-				
-			}
-			
+			obj_id juice = createObject("object/tangible/food/crafted/drink_blue_milk.iff", pInv, "");
+			setCount(juice, 3);
+			setObjVar(juice, "buffName", crystal_buff);
+			setObjVar(juice, "duration", 7200.f);
+			attachScript(juice, "item.special.nomove");
+			setObjVar(juice, "noTrade", 1);
+			sendSystemMessageTestingOnly(player, "Drink Issued");
+			break;			
 		case 16:	
 			float currentBuffTime = performance.inspireGetMaxDuration(player);
 			buff.applyBuff(player, "buildabuff_inspiration", 7200);
