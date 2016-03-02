@@ -200,7 +200,13 @@ const string[] VEHICLE_OPTIONS = {
 										"Barc Speeder",
 										"AV21",
 										"X31",
-										"Flash Speeder"
+										"Flash Speeder",
+										"Mechno Chair",
+										"Sith Speeder",
+										"Merr-Sonn JT-12 Jetpack",
+										"RIC-920",
+										"Republic Gunship",
+										"XJ-2 Landpeeder
 									};
 const string[] MOUNT_OPTIONS = {
 										"Carrion Spat",
@@ -214,31 +220,156 @@ const string[] MOUNT_OPTIONS = {
 									};
 
 const string[] BEAST_OPTIONS_FOR_PLAYERS = {
+										"acklay",
 										"angler",
 										"bageraset",
 										"bantha",
 										"bark_mite",
+										"baz_nitch",
 										"bearded_jax",
+										"blistmok",
+										"blurrg",
 										"boar_wolf",
 										"bocatt",
+										"bol",
 										"bolle_bol",
+										"bolma",
+										"bolotaur",
 										"bordok",
 										"borgle",
-										"blurrg",
+										"brackaset",
 										"capper_spineflap",
+										"carrion_spat",
 										"choku",
 										"chuba",
 										"condor_dragon",
+										"corellian_butterfly",
+										"corellian_sand_panther",
+										"corellian_slice_hound",
+										"crystal_snake",
+										"cu_pa",
 										"dalyrake",
+										"dewback",
+										"dune_lizard",
 										"durni",
+										"dwarf_nuna",
+										"eopie",
+										"falumpaset",
 										"fambaa",
+										"fanned_rawl",
+										"flewt",
+										"flit",
+										"fynock",
+										"gackle_bat",
+										"gaping_spider",
+										"gnort",
+										"graul",
 										"gronda",
+										"gualama",
+										"gubbur",
+										"guf_drolg",
+										"gulginaw",
 										"gurk",
+										"gurnaset",
+										"gurreck",
+										"hanadak",
+										"hermit_spider",
+										"horned_krevol",
+										"horned_rasp",
+										"huf_dun",
+										"huurton",
 										"ikopi",
+										"jundak",
+										"kaadu",
+										"kai_tok",
+										"kashyyyk_bantha",
+										"kima",
+										"kimogila",
+										"kittle",
+										"kliknik",
+										"krahbu",
+										"kubaza_beetle",
+										"kusak",
+										"kwi",
+										"langlatch",
+										"lantern_bird",
+										"lava_flea",
+										"malkloc",
 										"mamien",
+										"mawgax",
+										"merek",
+										"minstyngar",
+										"mott",
+										"mouf",
+										"murra",
+										"mutated_acklay",
+										"mutated_boar",
+										"mutated_borgax",
+										"mutated_cat",
+										"mutated_chuba_fly",
+										"mutated_cu_pa",
+										"mutated_dewback",
+										"mutated_griffon",
+										"mutated_jax",
+										"mutated_quenker",
+										"mutated_rancor",
+										"mutated_slice_hound",
+										"mutated_varasquactyl",
 										"mynock",
+										"narglatch",
+										"nerf",
+										"nuna",
+										"peko_peko",
+										"perlek",
+										"pharple",
+										"piket",
+										"plumed_rasp",
+										"pugoriss",
+										"purbole",
 										"quenker",
-										"reptilian_flier"
+										"rancor",
+										"remmer",
+										"reptilian_flier",
+										"roba",
+										"rock_mite",
+										"ronto",
+										"salt_mynock",
+										"sharnaff",
+										"shaupaut",
+										"shear_mite",
+										"skreeg",
+										"snorbal",
+										"spined_puc",
+										"spined_snake",
+										"squall",
+										"squill",
+										"stintaril",
+										"swirl_prong",
+										"tanc_mite",
+										"tanray",
+										"tauntaun",
+										"thune",
+										"torton",
+										"tulrus",
+										"tusk_cat",
+										"tybis",
+										"uller",
+										"varactyl",
+										"veermok",
+										"verne",
+										"vesp",
+										"vir_vur",
+										"voritor_lizard",
+										"vynock",
+										"walluga",
+										"wampa",
+										"webweaver",
+										"whisper_bird",
+										"womp_rat",
+										"woolamander",
+										"worrt",
+										"xandank",
+										"zucca_boar"
 };
 
 const string[] BEAST_OPTIONS = {
@@ -527,7 +658,8 @@ const string[] DEED_OPTIONS = {
 										"Fusion Reactor",
 										"Corellia City Pack",
 										"Naboo City Pack",
-										"Tatooine City Pack"
+										"Tatooine City Pack",
+										"TCG Houses"
 
 									};
 
@@ -872,6 +1004,9 @@ const string[] MISC_OPTIONS = {
 										"Vet 30k Resource Deed",
 										"Biological Focus Crystal",
 										"Synapse Focus Crystal",
+										"Mustafarian Injector",
+										"Naboo Signaling Unit",
+										"Custom Drink",
 										"Grant Buffs"
 									};
 const string[] MEDICINE_OPTIONS = {
@@ -1508,7 +1643,7 @@ const string[] AURILIA_CRYSTALS = {
 				};
 
 const string[] CRAFTING_SUIT = {
-					"Blix's Ultra Crafting Suit"
+					"Blixtev's Ultra Crafting Suit"
 				};
 
 				
@@ -2775,41 +2910,40 @@ messageHandler handleVehicleSelect()
 			sendSystemMessageTestingOnly(player, "XP38 Landspeeder Deed Issued.");
 			break;
 		case 6: //Barc Speeder
-			if(isGod(player))
-			{
-				createObject("object/tangible/deed/vehicle_deed/barc_speeder_deed.iff", pInv, "");
-				sendSystemMessageTestingOnly(player, "Barc Speeder Deed Issued.");
-			}
-			else
-			{
-				sendSystemMessageTestingOnly(player, "You Must be in God Mode to enjoy the BARC Speeder!");
-			}
+			createObject("object/tangible/deed/vehicle_deed/barc_speeder_deed.iff", pInv, "");
+			sendSystemMessageTestingOnly(player, "Barc Speeder Deed Issued.");
 			break;
 		case 7: //AV21
-			if(isGod(player))
-			{
-				createObject("object/tangible/deed/vehicle_deed/landspeeder_av21_deed.iff", pInv, "");
-				sendSystemMessageTestingOnly(player, "AV21 Deed Issued.");
-			}
-			else
-			{
-				sendSystemMessageTestingOnly(player, "You Must be in God Mode to enjoy the AV21 Speeder!");
-			}
+			createObject("object/tangible/deed/vehicle_deed/landspeeder_av21_deed.iff", pInv, "");
+			sendSystemMessageTestingOnly(player, "AV21 Deed Issued.");
 			break;
 		case 8: //X31
 			createObject("object/tangible/deed/vehicle_deed/landspeeder_x31_deed.iff", pInv, "");
 			sendSystemMessageTestingOnly(player, "X31 Deed Issued.");
 			break;
-		case 9: //Flash Speeder
-			if(isGod(player))
-			{
-				createObject("object/tangible/deed/vehicle_deed/speederbike_flash_deed.iff", pInv, "");
-				sendSystemMessageTestingOnly(player, "Flash Speeder Deed Issued.");
-			}
-			else
-			{
-				sendSystemMessageTestingOnly(player, "You Must be in God Mode to enjoy the Flash Speeder!");
-			}
+		case 9: //Hover Chair
+			static_item.createNewItemFunction("item_tcg_loot_reward_series1_mechno_chair",pInv);
+			sendSystemMessageTestingOnly(player, "Mecho Chair Issued");
+			break;
+		case 10: //Sith Speeder
+			static_item.createNewItemFunction("item_tcg_loot_reward_series1_sith_speeder",pInv);
+			sendSystemMessageTestingOnly(player, "Sith Speeder Issued.");
+			break;
+		case 11: //Merr-Sonn JT-12 Jetpack
+			static_item.createNewItemFunction("item_tcg_merr_sonn_jt12_jetpack_deed",pInv);
+			sendSystemMessageTestingOnly(player, "Merr-Sonn JT-12 Jetpack");
+			break;
+		case 12: //RIC-920
+			static_item.createNewItemFunction("item_tcg_loot_reward_series6_ric_920_speeder",pInv);
+			sendSystemMessageTestingOnly(player, "RIC-920 Issued");
+			break;
+		case 13: //Republic Gunship
+			static_item.createNewItemFunction("item_tcg_loot_reward_series7_buildreward_republic_gunship",pInv);
+			sendSystemMessageTestingOnly(player, "Republic Gunship Issued");
+			break;
+		case 14: // XJ-2
+			static_item.createNewItemFunction("item_tcg_loot_reward_series1_organa_speeder",pInv);
+			sendSystemMessageTestingOnly(player, "XJ-2 Issued");
 			break;
 		default:
 			cleanScriptVars(player);
@@ -4624,6 +4758,19 @@ messageHandler handleDeedSelect()
 			createObject("object/tangible/deed/city_deed/garden_tatooine_sml_01_deed.iff", pInv, "");
 			sendSystemMessageTestingOnly(player, "Tatooine City Pack Created");
 			break;
+		case 18;
+			//TCG House Pack (barn is broken)
+			static_item.createNewItemFunction("item_tcg_loot_reward_series1_diner",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series3_sith_meditation_room_deed",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series3_jedi_meditation_room_deed",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series4_relaxation_pool_deed_02_01",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series5_player_house_hangar",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series5_player_house_atat",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series6_deed_emperor_spire",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series6_deed_rebel_spire",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series7_deed_commando_bunker",pInv);
+			static_item.createNewItemFunction("item_tcg_loot_reward_series7_deed_vip_bunker",pInv);
+			sendSystemMessageTestingOnly(player, "TCG House Pack Created");
 		default:
 			cleanScriptVars(player);
 			return SCRIPT_CONTINUE;
@@ -7410,7 +7557,24 @@ messageHandler handleMiscSelect()
 			static_item.createNewItemFunction("item_force_crystal_04_02", pInv);
 			sendSystemMessageTestingOnly(player, "Synapse Focus Crystal Issued");
 			break;
-		case 13:	
+		case 13:  // Musty Injector
+			static_item.createNewItemFunction("item_tow_proc_generic_03_01", pInv);
+			sendSystemMessageTestingOnly(player, "Mustafarian Injector Issued");
+			break;
+		case 14:  // Instance Reset Device
+			static_item.createNewItemFunction("item_tcg_loot_reward_series5_signal_unit", pInv);
+			sendSystemMessageTestingOnly(player, "Naboo Signaling Unit Issued");
+			break;
+		case 15: //drink 2 op
+			obj_id juice = createObject("object/tangible/food/crafted/drink_blue_milk.iff", pInv, "");
+			setCount(juice, 3);
+			setObjVar(juice, "buffName", crystal_buff);
+			setObjVar(juice, "duration", 7200.f);
+			attachScript(juice, "item.special.nomove");
+			setObjVar(juice, "noTrade", 1);
+			sendSystemMessageTestingOnly(player, "Drink Issued");
+			break;			
+		case 16:	
 			float currentBuffTime = performance.inspireGetMaxDuration(player);
 			buff.applyBuff(player, "buildabuff_inspiration", 7200);
 			utils.setScriptVar(player, "performance.buildabuff.buffComponentKeys", buffComponentKeys);
@@ -7446,9 +7610,9 @@ messageHandler handleMiscSelect()
 			buff.applyBuff((player), "event_ewok_berry", 7200);
 			buff.applyBuff((player), "forceCrystalHealth", 7200);
 			buff.applyBuff((player), "forceCrystalForce", 7200);
-												
 			buff.applyBuff((player), "frogBuff", 7200);
 			sendSystemMessageTestingOnly(player, "Buffs granted.");
+			
 		default:
 			cleanScriptVars(player);
 			return SCRIPT_CONTINUE;
@@ -9457,7 +9621,7 @@ messageHandler handleCrystalSelect()
 			case 0:
 				for (int i = 0; i < 4; i++)
 				{
-					jedi.createColorCrystal(pInv, rand(0, 11));
+					jedi.createColorCrystal(pInv, rand(0, 31));
 				}
 				sendSystemMessageTestingOnly(player, "Color Crystals Issued!");
 				break;
