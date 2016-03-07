@@ -7568,7 +7568,7 @@ messageHandler handleMiscSelect()
 		case 15: //drink 2 op
 			obj_id juice = createObject("object/tangible/food/crafted/drink_blue_milk.iff", pInv, "");
 			setCount(juice, 3);
-			setObjVar(juice, "buffName", crystal_buff);
+			setObjVar(juice, "buff_name", crystal_buff);
 			setObjVar(juice, "duration", 7200.f);
 			attachScript(juice, "item.special.nomove");
 			setObjVar(juice, "noTrade", 1);
