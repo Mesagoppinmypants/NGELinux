@@ -1,0 +1,33 @@
+spawns	name	room	loc_x	loc_y	loc_z	yaw	script	mood	animation_mood	respawn_time	spawn_objvar	special_room	special_room_script	room_objvar	room_objvar_name	room_objvar_value
+s	s	s	f	f	f	f	s	s	s	i	s	s	s	s	s	s
+kobola_miner		r1	-18.41776848	-3.467245579	-4.007937908	-1	theme_park.dungeon.generic_death			300						
+kobola_guard		r1	2.234396935	-14.2860899	-8.547611237	-1	theme_park.dungeon.generic_death			300						
+kobola_miner		r1	23.84892845	-26.25502396	-6.982348919	84	theme_park.dungeon.generic_death			300						
+kobola_guard		r2	23.29545975	-39.71167374	-43.17869949	-163	theme_park.dungeon.generic_death			300						
+kobola_miner		r2	23.60318756	-40.58415604	-52.73571396	-100	theme_park.dungeon.generic_death			300						
+kobola_guard		r2	50.55743408	-48.41983032	-59.15421677	-5	theme_park.dungeon.generic_death			300						
+kobola_miner		r2	51.2298584	-48.13723755	-64.88886261	178	theme_park.dungeon.generic_death			300						
+kobola_miner		r2	43.43122101	-47.58912277	-40.06022644	178	theme_park.dungeon.generic_death			300						
+kobola_foreman		r2	53.44386292	-48.42726517	-9.076068878	1	theme_park.dungeon.generic_death			300						
+kobola_miner		r2	45.48947525	-46.69140244	-17.84908104	1	theme_park.dungeon.generic_death			300						
+kobola_miner		r10	47.22390366	-48.65514755	-98.08193207	50	theme_park.dungeon.generic_death			300						
+kobola_foreman		r10	49.35628891	-48.09796524	-104.5259323	84	theme_park.dungeon.generic_death			300						
+kobola_foreman		r5	86.97637177	-46.16787338	-110.4566727	-90	theme_park.dungeon.generic_death			300						
+kobola_miner		r5	90.49106598	-46.32774353	-103.3312073	-90	theme_park.dungeon.generic_death			300						
+kobola_miner		r5	85.99610901	-45.94819641	-117.1713562	-33	theme_park.dungeon.generic_death			300						
+kobola_assassin		r11	79.32183075	-46.45005035	-142.0711823	-90	theme_park.dungeon.generic_death			300						
+kobola_miner		r11	85.93671417	-46.49344635	-145.9938965	-1	theme_park.dungeon.generic_death			300						
+kobola_thief		r11	87.36112976	-46.68423843	-138.3641815	-1	theme_park.dungeon.generic_death			300						
+kobola_foreman		r3	90.50421143	-62.13539505	-21.80116081	84	theme_park.dungeon.generic_death			300						
+kobola_miner		r3	90.68445587	-61.41109467	-11.79268932	-163	theme_park.dungeon.generic_death			300						
+kobola_assassin		r2	56.67334747	-68.52800751	-38.17266464	-100	theme_park.dungeon.generic_death			300						
+kobola_miner		r4	78.69046783	-75.3927002	-61.82543182	-5	theme_park.dungeon.generic_death			300						
+kobola_foreman		r4	88.01020813	-75.84897614	-86.84268951	178	theme_park.dungeon.generic_death			300						
+kobola_assassin		r4	68.81494141	-76.55038452	-87.40488434	178	theme_park.dungeon.generic_death			300						
+kobola_assassin		r6	57.37966537	-69.54515076	-120.0920792	1	theme_park.dungeon.generic_death			300						
+kobola_miner		r7	87.14485168	-66.48794556	-139.1773224	1	theme_park.dungeon.generic_death			300						
+kobola_pitboss		r7	91.18577576	-66.62693787	-131.4900513	50	theme_park.dungeon.generic_death			300						
+kobola_pitboss		r8	128.7632141	-66.49066925	-107.5422134	84	theme_park.dungeon.generic_death			300						
+kobola_miner		r8	135.2011108	-66.7406311	-89.22540283	-90	theme_park.dungeon.generic_death			300						
+kobola_miner		r8	138.3064575	-66.4197998	-127.0194855	-90	theme_park.dungeon.generic_death			300						
+kobola_underboss		r9	185.9729462	-65.42778778	-102.4029617	-33	theme_park.dungeon.generic_death			300						

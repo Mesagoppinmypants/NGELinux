@@ -37,7 +37,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1439949	0	object/static/structure/general/droid_probedroid_powerdown.iff	0	1709.23	28	1698.98	1	0	0	0		$|
 1439950	0	object/static/structure/corellia/corl_tent_small.iff	0	1679.8	28.1301	1611.57	0.9998	0	0.0199987	0		$|
 1439951	0	object/tangible/terminal/terminal_bazaar.iff	0	1684.03	28	1610.74	-3.20E-08	0	1	0		$|
-1855362	0	object/building/corellia/skyscraper_corellia_style_01.iff	0	1838	28	1884	1	0	0	0		$|
+1855362	0	object/building/corellia/skyscraper_corellia_style_01.iff	0	1838	28	1884	1	0	0	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/corellia/corellianpcs.iff|$|
 1855366	0	object/building/corellia/skyscraper_corellia_style_03.iff	0	1718	28	1784	0.923881	0	-0.382681	0		$|
 1855370	0	object/building/corellia/skyscraper_corellia_style_03.iff	0	1958	28	1784	0.923879	0	0.382684	0		$|
 1855378	0	object/building/corellia/skyscraper_corellia_style_04.iff	0	1778	28	1824	1	0	0	0		$|
@@ -69,8 +69,8 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 10011229	1855473	object/cell/cell.iff	15	0	0	0	1	0	0	0		$|
 10011230	1855473	object/cell/cell.iff	16	0	0	0	1	0	0	0		$|
 10011231	1855473	object/cell/cell.iff	17	0	0	0	1	0	0	0		$|
-1509607	10011224	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	10	.610741496086121	1.15440440177917	-9.73227977752686	1	0	0	0	conversation.corellia_privateer_trainer	$|
-3375685	10011225	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	11	.582667469978333	1.74999976158142	-20.8359031677246	1	0	0	0	conversation.corellia_privateer_trainer_2	$|
+1509607	10011224	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	10	0.6107414961	1.1544044018	-9.7322797775	1	0	0	0	conversation.corellia_privateer_trainer	$|
+3375685	10011225	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	11	0.58266747	1.7499997616	-20.8359031677	1	0	0	0	conversation.corellia_privateer_trainer_2	$|
 1855491	0	object/building/corellia/cloning_corellia.iff	0	1548	28	1644	0.707109	0	0.707104	0		$|
 1855498	0	object/building/corellia/garage_corellia.iff	0	1784.8	28	1353.22	8.32E-07	0	1	0		$|
 1855499	0	object/building/corellia/guild_combat_corellia_style_01.iff	0	1788	28	1754	0.707106	0	0.707108	0		$|
@@ -104,14 +104,14 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 18013285	1855671	object/cell/cell.iff	14	0	0	0	1	0	0	0		$|
 18013286	1855671	object/cell/cell.iff	15	0	0	0	1	0	0	0		$|
 18013287	1855671	object/cell/cell.iff	16	0	0	0	1	0	0	0		$|
-10037160	18013275	object/tangible/terminal/terminal_space.iff	4	5.036217212677	.639421403408051	60.5857276916504	1	0	0	0	space.terminal.terminal_space	$|
-10037161	18013275	object/tangible/terminal/terminal_space.iff	4	5.06129455566406	.639421403408051	59.9869842529297	.00420367019250989	0	.999991238117218	0	space.terminal.terminal_space	$|
-10037162	18013275	object/tangible/terminal/terminal_space.iff	4	-5.76612329483032	.639423787593842	60.6152000427246	1	0	0	0	space.terminal.terminal_space	$|
-10038163	18013275	object/tangible/terminal/terminal_space.iff	4	-5.77036142349243	.639423668384552	60.0164566040039	-.00420371536165476	0	.999991178512573	0	space.terminal.terminal_space	$|
-1509606	18013275	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	4	9.95971965789795	.639421999454498	67.7167510986328	0.00	0.00	1.00	0.00	conversation.chassis_npc	$|
-10038164	18013281	object/tangible/terminal/terminal_space.iff	10	-37.86	1.64	49.20	-0.65	0.00	0.76	0.00	space.terminal.terminal_space	$|
-10038165	18013281	object/tangible/terminal/terminal_space.iff	10	-44.06	1.64	50.20	0.77	0.00	0.64	0.00	space.terminal.terminal_space	$|
-5245543	18013283	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	12	-47.572151184082	2.63941764831543	32.3028450012207	.900447070598602	0	-.434965640306473	0		$|
+10037160	18013275	object/tangible/terminal/terminal_space.iff	4	5.0362172127	0.6394214034	60.5857276917	1	0	0	0	space.terminal.terminal_space	$|
+10037161	18013275	object/tangible/terminal/terminal_space.iff	4	5.0612945557	0.6394214034	59.9869842529	0.0042036702	0	0.9999912381	0	space.terminal.terminal_space	$|
+10037162	18013275	object/tangible/terminal/terminal_space.iff	4	-5.7661232948	0.6394237876	60.6152000427	1	0	0	0	space.terminal.terminal_space	$|
+10038163	18013275	object/tangible/terminal/terminal_space.iff	4	-5.7703614235	0.6394236684	60.016456604	-0.0042037154	0	0.9999911785	0	space.terminal.terminal_space	$|
+1509606	18013275	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	4	9.9597196579	0.6394219995	67.7167510986	0	0	1	0	conversation.chassis_npc	$|
+10038164	18013281	object/tangible/terminal/terminal_space.iff	10	-37.86	1.64	49.2	-0.65	0	0.76	0	space.terminal.terminal_space	$|
+10038165	18013281	object/tangible/terminal/terminal_space.iff	10	-44.06	1.64	50.2	0.77	0	0.64	0	space.terminal.terminal_space	$|
+5245543	18013283	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	12	-47.5721511841	2.6394176483	32.3028450012	0.9004470706	0	-0.4349656403	0		$|
 1855687	0	object/building/corellia/filler_block_corellia_64x32_s01.iff	0	1968	28	1644	1	0	0	0		$|
 1855694	0	object/static/structure/corellia/corl_fountain_statue_heroic_s01.iff	0	1838	28	1674	0.707106	0	0.707107	0		$|
 1855695	0	object/static/structure/corellia/corl_fountain_statue_contemplate_s01.iff	0	1838	28	1714	-0.707106	0	0.707107	0		$|
