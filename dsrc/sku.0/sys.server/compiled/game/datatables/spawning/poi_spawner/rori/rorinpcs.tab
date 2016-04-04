@@ -1,0 +1,393 @@
+spawns	name	room	loc_x	loc_y	loc_z	yaw	script	mood	animation_mood	respawn_time	spawn_objvar	special_room	special_room_script	room_objvar	room_objvar_name	room_objvar_value
+s	s	s	f	f	f	f	s	s	s	i	s	s	s	s	s	s
+kobola_guard		world	7358.183594	80.89487457	106.6294327	90	theme_park.dungeon.generic_death			600						
+kobola_guard		world	7358.183594	80.89487457	106.6294327	90	theme_park.dungeon.generic_death			600						
+at_st		world	-1119.94458	77.81830597	4543.183105	90	theme_park.dungeon.generic_death			602						
+stormtrooper		world	-1137.848633	78.00701141	4537.596191	90	theme_park.dungeon.generic_death			223						
+stormtrooper		world	-1137.848633	78.00701141	4537.596191	90	theme_park.dungeon.generic_death			223						
+rorgungan_commoner		world	2507.473389	81.63926697	7316.540527	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	2507.473389	81.63926697	7316.540527	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	2507.473389	81.63926697	7316.540527	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	2507.473389	81.63926697	7316.540527	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	2507.473389	81.63926697	7316.540527	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warchief		world	3376.055908	90	5860.842773	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	3382.366455	90	5868.851074	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	3382.366455	90	5868.851074	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	3382.366455	90	5868.851074	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	3382.366455	90	5868.851074	90	theme_park.dungeon.generic_death			3600						
+vrobal_bull		world	1926.943359	80.82769775	1763.450195	90	theme_park.dungeon.generic_death			3600						
+vrobal_bull		world	1926.943359	80.82769775	1763.450195	90	theme_park.dungeon.generic_death			3600						
+vrobal_bull		world	1926.943359	80.82769775	1763.450195	90	theme_park.dungeon.generic_death			3600						
+vrobal_bull		world	1926.943359	80.82769775	1763.450195	90	theme_park.dungeon.generic_death			3600						
+vrobal_bull		world	1926.943359	80.82769775	1763.450195	90	theme_park.dungeon.generic_death			3600						
+rorgungan_boss		world	3591.468018	80.53492737	366.8275146	90	theme_park.dungeon.generic_death			100						
+rorgungan_scout		world	3575.872803	81.54036713	371.6214905	90	theme_park.dungeon.generic_death			3600						
+rorgungan_scout		world	3575.872803	81.54036713	371.6214905	90	theme_park.dungeon.generic_death			3600						
+rorgungan_scout		world	3575.872803	81.54036713	371.6214905	90	theme_park.dungeon.generic_death			3600						
+rorgungan_scout		world	3575.872803	81.54036713	371.6214905	90	theme_park.dungeon.generic_death			3600						
+screaming_kai_tok		world	3475.43335	80.33605194	-2142.108887	90	theme_park.dungeon.generic_death			3600						
+screaming_kai_tok		world	3475.43335	80.33605194	-2142.108887	90	theme_park.dungeon.generic_death			3600						
+screaming_kai_tok		world	3475.43335	80.33605194	-2142.108887	90	theme_park.dungeon.generic_death			3600						
+screaming_kai_tok		world	3475.43335	80.33605194	-2142.108887	90	theme_park.dungeon.generic_death			3600						
+screaming_kai_tok		world	3475.43335	80.33605194	-2142.108887	90	theme_park.dungeon.generic_death			3600						
+torton		world	-763.7941284	81.06198883	-4111.538574	90	theme_park.dungeon.generic_death			3600						
+torton		world	-763.7941284	81.06198883	-4111.538574	90	theme_park.dungeon.generic_death			3600						
+wood_mite_matriarch		world	5937.033691	75.89911652	-2600.607666	90	theme_park.dungeon.generic_death			3600						
+wood_mite		world	5923.896484	76.18435669	-2603.733643	90	theme_park.dungeon.generic_death			3600						
+wood_mite		world	5923.896484	76.18435669	-2603.733643	90	theme_park.dungeon.generic_death			3600						
+wood_mite		world	5923.896484	76.18435669	-2603.733643	90	theme_park.dungeon.generic_death			3600						
+wood_mite		world	5923.896484	76.18435669	-2603.733643	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	6116.569824	75.85202026	-508.6654358	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	6116.569824	75.85202026	-508.6654358	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	6116.569824	75.85202026	-508.6654358	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	6116.569824	75.85202026	-508.6654358	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	6116.569824	75.85202026	-508.6654358	90	theme_park.dungeon.generic_death			3600						
+spice_collective_eliteguard		world	5512.452637	76.93294525	1004.829163	90	theme_park.dungeon.generic_death			3600						
+spice_collective_eliteguard		world	5512.452637	76.93294525	1004.829163	90	theme_park.dungeon.generic_death			3600						
+spice_collective_miner		world	5515.708008	76.84846497	1015.507751	90	theme_park.dungeon.generic_death			3600						
+spice_collective_miner		world	5515.708008	76.84846497	1015.507751	90	theme_park.dungeon.generic_death			3600						
+spice_collective_miner		world	5515.708008	76.84846497	1015.507751	90	theme_park.dungeon.generic_death			3600						
+pugoriss		world	5577.047363	75.11089325	2434.896729	90	theme_park.dungeon.generic_death			3600						
+pugoriss		world	5577.047363	75.11089325	2434.896729	90	theme_park.dungeon.generic_death			3600						
+pugoriss		world	5577.047363	75.11089325	2434.896729	90	theme_park.dungeon.generic_death			3600						
+pugoriss		world	5577.047363	75.11089325	2434.896729	90	theme_park.dungeon.generic_death			3600						
+pugoriss		world	5577.047363	75.11089325	2434.896729	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	6687.053711	76.0114212	6878.499512	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	6687.053711	76.0114212	6878.499512	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	6687.053711	76.0114212	6878.499512	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	6687.053711	76.0114212	6878.499512	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	6687.053711	76.0114212	6878.499512	90	theme_park.dungeon.generic_death			3600						
+narmle_commander		world	5052.90918	75.63733673	4646.831543	90	theme_park.dungeon.generic_death			3600						
+narmle_commander		world	5205.51416	75.99850464	1014.819641	90	theme_park.dungeon.generic_death			3600						
+narmel_commando		world	5212.522461	76.29162598	1021.762451	90	theme_park.dungeon.generic_death			3600						
+narmel_commando		world	5212.522461	76.29162598	1021.762451	90	theme_park.dungeon.generic_death			3600						
+narmel_commando		world	5212.522461	76.29162598	1021.762451	90	theme_park.dungeon.generic_death			3600						
+imperial_surface_marshal		world	6538.066406	108	-4751.041016	90	theme_park.dungeon.generic_death			3600						
+imperial_trooper		world	6533.467773	107.9543533	-4763.052734	90	theme_park.dungeon.generic_death			360						
+imperial_trooper		world	6533.467773	107.9543533	-4763.052734	90	theme_park.dungeon.generic_death			360						
+imperial_trooper		world	6533.467773	107.9543533	-4763.052734	90	theme_park.dungeon.generic_death			360						
+imperial_trooper		world	6533.467773	107.9543533	-4763.052734	90	theme_park.dungeon.generic_death			360						
+domestic_bearded_jax		world	-429.4573059	75.94432068	-5431.838379	90	theme_park.dungeon.generic_death			3600						
+domestic_bearded_jax		world	-429.4573059	75.94432068	-5431.838379	90	theme_park.dungeon.generic_death			3600						
+domestic_bearded_jax		world	-429.4573059	75.94432068	-5431.838379	90	theme_park.dungeon.generic_death			3600						
+farmer_rancher		world	-436.4582214	75.92152405	-5444.197266	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-6962.28125	86.29315186	-5661.730957	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-6962.28125	86.29315186	-5661.730957	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-6962.28125	86.29315186	-5661.730957	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-6962.28125	86.29315186	-5661.730957	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-6962.28125	86.29315186	-5661.730957	90	theme_park.dungeon.generic_death			3600						
+rorgungan_boss		world	-3389.667725	100	-6186.699219	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-3397.903076	100	-6178.879883	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-3397.903076	100	-6178.879883	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-3397.903076	100	-6178.879883	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-3397.903076	100	-6178.879883	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	-5818.51416	75.47236633	5829.000488	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	-5818.51416	75.47236633	5829.000488	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	-5818.51416	75.47236633	5829.000488	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	-5818.51416	75.47236633	5829.000488	90	theme_park.dungeon.generic_death			3600						
+rorgungan_commoner		world	-5818.51416	75.47236633	5829.000488	90	theme_park.dungeon.generic_death			3600						
+bounty_hunter		world	-3653.08374	78.78051758	5528.731934	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-4700.496582	75.83508301	3569.55542	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-4700.496582	75.83508301	3569.55542	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-4700.496582	75.83508301	3569.55542	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-4700.496582	75.83508301	3569.55542	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-4700.496582	75.83508301	3569.55542	90	theme_park.dungeon.generic_death			3600						
+cobral_assassin		world	-4969.248535	75.40206146	-675.163269	90	theme_park.dungeon.generic_death			3600						
+cobral_assassin		world	-4969.248535	75.40206146	-675.163269	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2642.408691	76.00589752	-775.8623657	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2642.408691	76.00589752	-775.8623657	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2642.408691	76.00589752	-775.8623657	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2642.408691	76.00589752	-775.8623657	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2642.408691	76.00589752	-775.8623657	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-1470.200562	76.37374878	1673.745605	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-1470.200562	76.37374878	1673.745605	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-1470.200562	76.37374878	1673.745605	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-1470.200562	76.37374878	1673.745605	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-1470.200562	76.37374878	1673.745605	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-47.3829689	76.58626556	5224.118652	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-47.3829689	76.58626556	5224.118652	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-47.3829689	76.58626556	5224.118652	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-47.3829689	76.58626556	5224.118652	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-47.3829689	76.58626556	5224.118652	90	theme_park.dungeon.generic_death			3600						
+stormtrooper		world	-5504.409668	75.98625946	-5664.470703	90	theme_park.dungeon.generic_death			586						
+stormtrooper		world	-5504.409668	75.98625946	-5664.470703	90	theme_park.dungeon.generic_death			586						
+stormtrooper		world	-5504.409668	75.98625946	-5664.470703	90	theme_park.dungeon.generic_death			586						
+stormtrooper		world	-5625.411133	75.95671844	-5661.862793	90	theme_park.dungeon.generic_death			614						
+stormtrooper		world	-5625.411133	75.95671844	-5661.862793	90	theme_park.dungeon.generic_death			614						
+stormtrooper		world	-5625.411133	75.95671844	-5661.862793	90	theme_park.dungeon.generic_death			614						
+at_st		world	-5600.124023	76	-5661.319336	90	theme_park.dungeon.generic_death			1586						
+at_st		world	-5530.148926	76	-5662.908691	90	theme_park.dungeon.generic_death			1546						
+stormtrooper_rifleman		world	-5531.830078	75.9934082	-5695.16748	90	theme_park.dungeon.generic_death			629						
+stormtrooper_rifleman		world	-5531.830078	75.9934082	-5695.16748	90	theme_park.dungeon.generic_death			629						
+stormtrooper_bombardier		world	-5531.510254	76	-5630.864746	90	theme_park.dungeon.generic_death			654						
+stormtrooper_bombardier		world	-5531.510254	76	-5630.864746	90	theme_park.dungeon.generic_death			654						
+stormtrooper_sniper		world	-5595.603516	75.99646759	-5630.675781	90	theme_park.dungeon.generic_death			524						
+stormtrooper_sniper		world	-5595.603516	75.99646759	-5630.675781	90	theme_park.dungeon.generic_death			524						
+stormtrooper_medic		world	-5594.63916	76	-5696.57959	90	theme_park.dungeon.generic_death			524						
+stormtrooper_medic		world	-5594.63916	76	-5696.57959	90	theme_park.dungeon.generic_death			524						
+assault_trooper		world	-5565.431641	76	-5632.618652	90	theme_park.dungeon.generic_death			468						
+mutant_bark_mite_hatchling		world	3558.174316	90.19821167	5435.652832	90	theme_park.dungeon.generic_death			600						
+mutant_bark_mite_hatchling		world	3558.174316	90.19821167	5435.652832	90	theme_park.dungeon.generic_death			600						
+mutant_bark_mite_hatchling		world	3558.174316	90.19821167	5435.652832	90	theme_park.dungeon.generic_death			600						
+mutant_bark_mite_hatchling		world	3535.567139	90	5461.175781	90	theme_park.dungeon.generic_death			600						
+mutant_bark_mite_hatchling		world	3535.567139	90	5461.175781	90	theme_park.dungeon.generic_death			600						
+mutant_bark_mite_hatchling		world	3535.567139	90	5461.175781	90	theme_park.dungeon.generic_death			600						
+mutant_bark_mite_hatchling		world	3509.015137	90	5437.780762	90	theme_park.dungeon.generic_death			600						
+mutant_bark_mite_hatchling		world	3509.015137	90	5437.780762	90	theme_park.dungeon.generic_death			600						
+mutant_bark_mite_hatchling		world	3509.015137	90	5437.780762	90	theme_park.dungeon.generic_death			600						
+borgle_harvester		world	876.6038208	85.60910034	-4907.08252	90	theme_park.dungeon.generic_death			360						
+borgle_harvester		world	876.6038208	85.60910034	-4907.08252	90	theme_park.dungeon.generic_death			360						
+borgle_harvester		world	876.6038208	85.60910034	-4907.08252	90	theme_park.dungeon.generic_death			360						
+torton_pygmy_juvenile		world	-1801.686523	92.43524933	-4534.302246	90	theme_park.dungeon.generic_death			600	int:ai.defaultCalmBehavior=0					
+torton_pygmy_juvenile		world	-1801.686523	92.43524933	-4534.302246	90	theme_park.dungeon.generic_death			600	int:ai.defaultCalmBehavior=0					
+garyn_prowler		world	-5913.763672	78.68400574	-1879.888916	90	theme_park.dungeon.generic_death			1100						
+garyn_prowler		world	-5913.763672	78.68400574	-1879.888916	90	theme_park.dungeon.generic_death			1100						
+garyn_prowler		world	-5956.811035	95.41788483	-1857.668091	90	theme_park.dungeon.generic_death			1100						
+garyn_prowler		world	-5956.811035	95.41788483	-1857.668091	90	theme_park.dungeon.generic_death			1100						
+garyn_prowler		world	-5969.838867	100.1476669	-1799.973511	90	theme_park.dungeon.generic_death			1100						
+garyn_prowler		world	-5969.838867	100.1476669	-1799.973511	90	theme_park.dungeon.generic_death			1100						
+garyn_prowler		world	-6005.73877	116.909317	-1848.381714	90	theme_park.dungeon.generic_death			1100						
+garyn_prowler		world	-6005.73877	116.909317	-1848.381714	90	theme_park.dungeon.generic_death			1100						
+garyn_thief		world	-6022.737793	118.8394394	-1818.131958	90	theme_park.dungeon.generic_death			1800						
+garyn_thief		world	-6023.413086	119.113533	-1823.820923	90	theme_park.dungeon.generic_death			1800						
+cobral_thug		world	5448.008789	87	5029.394043	90	theme_park.dungeon.generic_death			1000						
+cobral_thug		world	5443.866699	87	5029.412109	90	theme_park.dungeon.generic_death			1000						
+rebel_sergeant		world	-5367.917969	76	5036.35791	90	theme_park.dungeon.generic_death			432						
+rebel_sergeant		world	-5367.917969	76	5036.35791	90	theme_park.dungeon.generic_death			432						
+rebel_sergeant_major		world	-5340.737305	76	5056.815918	90	theme_park.dungeon.generic_death			456						
+rebel_sergeant_major		world	-5340.737305	76	5056.815918	90	theme_park.dungeon.generic_death			456						
+rebel_general		world	-5323.619141	76	5068.741211	90	theme_park.dungeon.generic_death			2122						
+rebel_lieutenant_general		world	-5303.281738	75.99825287	5039.123535	90	theme_park.dungeon.generic_death			1987						
+rebel_specforce_colonel		world	-5359.196777	76	4999.404785	90	theme_park.dungeon.generic_death			3600						
+rebel_specforce_colonel		world	-5359.196777	76	4999.404785	90	theme_park.dungeon.generic_death			3600						
+rebel_high_general		world	-5350.47168	75.99988556	4995.120605	90	theme_park.dungeon.generic_death			4800						
+thug		world	-5392.794434	76	5057.297363	90	theme_park.dungeon.generic_death			100						
+rebel_major		world	-5382.877441	76	5021.42041	90	theme_park.dungeon.generic_death			1500						
+rebel_major		world	-5382.877441	76	5021.42041	90	theme_park.dungeon.generic_death			1500						
+rebel_second_lieutenant		world	-5363.360352	76	5074.54541	90	theme_park.dungeon.generic_death			677						
+rebel_second_lieutenant		world	-5363.360352	76	5074.54541	90	theme_park.dungeon.generic_death			677						
+rebel_army_captain		world	-5335.487305	76	5081.510254	90	theme_park.dungeon.generic_death			766						
+rebel_army_captain		world	-5335.487305	76	5081.510254	90	theme_park.dungeon.generic_death			766						
+rebel_trooper		world	-5323.101074	76	5040.907227	90	theme_park.dungeon.generic_death			342						
+rebel_trooper		world	-5323.101074	76	5040.907227	90	theme_park.dungeon.generic_death			342						
+rebel_trooper		world	-5323.101074	76	5040.907227	90	theme_park.dungeon.generic_death			342						
+rebel_trooper		world	-5354.512695	76	5019.033203	90	theme_park.dungeon.generic_death			345						
+rebel_trooper		world	-5354.512695	76	5019.033203	90	theme_park.dungeon.generic_death			345						
+rebel_trooper		world	-5354.512695	76	5019.033203	90	theme_park.dungeon.generic_death			345						
+vrobal		world	735.8218994	89.2004776	-2074.910645	90	theme_park.dungeon.generic_death			60						
+vrobal		world	735.8218994	89.2004776	-2074.910645	90	theme_park.dungeon.generic_death			60						
+poacher_talus		world	770.0692749	82.33384705	-2084.395508	90	theme_park.dungeon.generic_death			90						
+poacher_talus		world	770.0692749	82.33384705	-2084.395508	90	theme_park.dungeon.generic_death			90						
+hunter_talus		world	748.8343506	85.48389435	-2090.724854	90	theme_park.dungeon.generic_death			60						
+hunter_talus		world	748.8343506	85.48389435	-2090.724854	90	theme_park.dungeon.generic_death			60						
+poacher_talus		world	752.0621338	85.68347168	-2082.750488	90	theme_park.dungeon.generic_death			60						
+poacher_talus		world	752.0621338	85.68347168	-2082.750488	90	theme_park.dungeon.generic_death			60						
+hunter_talus		world	765.8907471	82.745224	-2086.297363	90	theme_park.dungeon.generic_death			90						
+hunter_talus		world	765.8907471	82.745224	-2086.297363	90	theme_park.dungeon.generic_death			90						
+poacher_talus		world	781.5050659	82.5996933	-2073.65332	90	theme_park.dungeon.generic_death			60						
+poacher_talus		world	781.5050659	82.5996933	-2073.65332	90	theme_park.dungeon.generic_death			60						
+hunter_talus		world	772.185791	84.14787292	-2068.466797	90	theme_park.dungeon.generic_death			60						
+hunter_talus		world	772.185791	84.14787292	-2068.466797	90	theme_park.dungeon.generic_death			60						
+vicious_squall		world	785.7376709	81.12446594	-2059.883789	90	theme_park.dungeon.generic_death			60						
+vicious_squall		world	785.7376709	81.12446594	-2059.883789	90	theme_park.dungeon.generic_death			60						
+vicious_squall		world	785.7376709	81.12446594	-2059.883789	90	theme_park.dungeon.generic_death			60						
+vicious_squall		world	785.7376709	81.12446594	-2059.883789	90	theme_park.dungeon.generic_death			60						
+squall_female		world	781.7628174	81.38103485	-2048.354004	90	theme_park.dungeon.generic_death			60						
+squall_female		world	781.7628174	81.38103485	-2048.354004	90	theme_park.dungeon.generic_death			60						
+squall_female		world	781.7628174	81.38103485	-2048.354004	90	theme_park.dungeon.generic_death			60						
+squall_male		world	790.6375122	78.94564819	-2036.808105	90	theme_park.dungeon.generic_death			60						
+squall_male		world	790.6375122	78.94564819	-2036.808105	90	theme_park.dungeon.generic_death			60						
+vrobal		world	714.5766602	93.63275146	-2063.509521	90	theme_park.dungeon.generic_death			60						
+vrobal		world	714.5766602	93.63275146	-2063.509521	90	theme_park.dungeon.generic_death			60						
+vrobal		world	722.2453003	91.22486877	-2076.499512	90	theme_park.dungeon.generic_death			60						
+vrobal		world	722.2453003	91.22486877	-2076.499512	90	theme_park.dungeon.generic_death			60						
+captain_hassk		world	-2085.564453	75.88117981	3256.835205	90	theme_park.dungeon.generic_death			172800						
+rorgungan_warchief		world	-2070.194092	75.76334381	3256.280762	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warchief		world	-2070.194092	75.76334381	3256.280762	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warchief		world	-2072.870117	75.9106369	3280.238037	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2077.435059	75.85998535	3284.618408	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2077.435059	75.85998535	3284.618408	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2077.435059	75.85998535	3284.618408	90	theme_park.dungeon.generic_death			3600						
+thug		world	-2046.0802	77.78598022	3335.123535	90	theme_park.dungeon.generic_death			3600						
+thug		world	-2046.0802	77.78598022	3335.123535	90	theme_park.dungeon.generic_death			3600						
+thug		world	-2046.0802	77.78598022	3335.123535	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warchief		world	-2047.42334	78.33400726	3329.180176	90	theme_park.dungeon.generic_death			3600						
+lieutenant_ori		world	-2052.38501	78.22742462	3333.166016	90	theme_park.dungeon.generic_death			86400						
+rorgungan_warchief		world	-2014.617798	78.71001434	3342.614014	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2008.101074	77.73607635	3345.064697	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2008.101074	77.73607635	3345.064697	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2008.101074	77.73607635	3345.064697	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2008.101074	77.73607635	3345.064697	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2074.630859	78.97061157	3369.766846	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2074.630859	78.97061157	3369.766846	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2074.630859	78.97061157	3369.766846	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2074.630859	78.97061157	3369.766846	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warchief		world	-2079.285645	78.65860748	3371.598633	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warchief		world	-2098.062256	76.81834412	3338.199951	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2097.143555	77.57247925	3333.575195	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2097.143555	77.57247925	3333.575195	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2097.143555	77.57247925	3333.575195	90	theme_park.dungeon.generic_death			3600						
+lieutenant_heb_nee		world	-2104.989746	77.46623993	3333.593506	90	theme_park.dungeon.generic_death			86400						
+rorgungan_warrior		world	-2130.025635	76.14025879	3270.961426	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2130.025635	76.14025879	3270.961426	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2130.025635	76.14025879	3270.961426	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2130.025635	76.14025879	3270.961426	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warchief		world	-2127.19165	76.06721497	3267.598145	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2085.324219	75.28999329	3217.262207	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2085.324219	75.28999329	3217.262207	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2085.324219	75.28999329	3217.262207	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2085.324219	75.28999329	3217.262207	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2023.591064	75.75140381	3262.09082	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2023.591064	75.75140381	3262.09082	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2023.591064	75.75140381	3262.09082	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2023.591064	75.75140381	3262.09082	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warchief		world	-2018.831421	75.61461639	3266.057861	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2078.179443	76.7953186	3311.242432	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2078.179443	76.7953186	3311.242432	90	theme_park.dungeon.generic_death			3600						
+rorgungan_warrior		world	-2078.179443	76.7953186	3311.242432	90	theme_park.dungeon.generic_death			3600						
+c_syren_4_imp_mkae		world	5369.84	80	5642.66	0	conversation.c_story1_4_imp_contact			60						
+rebel_sergeant_major		world	-5249.22	79.9832	-2274.76	180	conversation.c_story1_4_reb_contact			60						
+global_blksun_gunman		world	999.432	78.3995	7169.59	90	theme_park.dungeon.generic_death			1200						
+global_blksun_gunman		world	958.173	126.737	7218.64	90	theme_park.dungeon.generic_death			1200						
+global_blksun_gunman		world	980	119	7246.15	90	theme_park.dungeon.generic_death			1200						
+global_blksun_gunman		world	980	119	7246.15	90	theme_park.dungeon.generic_death			1200						
+global_blksun_gunman		world	1615.32	119	7274.42	90	theme_park.dungeon.generic_death			1200						
+global_blksun_gunman		world	1615.32	119	7274.42	90	theme_park.dungeon.generic_death			1200						
+global_blksun_gunman		world	1031.48	122.725	7287.06	90	theme_park.dungeon.generic_death			1200						
+global_blksun_gunman		world	1031.48	122.725	7287.06	90	theme_park.dungeon.generic_death			1200						
+global_blksun_hitman		world	983.808	119.158	7268.47	90	theme_park.dungeon.generic_death			1200						
+global_blksun_hitman		world	983.808	119.158	7268.47	90	theme_park.dungeon.generic_death			1200						
+global_blksun_hitman		world	983.808	119.158	7268.47	90	theme_park.dungeon.generic_death			1200						
+global_blksun_hitman		world	960.156	122.676	7270.78	90	theme_park.dungeon.generic_death			1200						
+global_blksun_hitman		world	983.626	125.932	7297.77	90	theme_park.dungeon.generic_death			1200						
+global_blksun_hitman		world	1008.79	122.656	7277.01	90	theme_park.dungeon.generic_death			1200						
+global_blksun_enforcer		world	987.706	118.695	7307.54	90	theme_park.dungeon.generic_death			1200						
+global_blksun_enforcer		world	952.494	119	7279.77	90	theme_park.dungeon.generic_death			1200						
+garyn_prowler		world	-2637	81	-3211		theme_park.dungeon.generic_death			900						
+garyn_prowler		world	-2637	81	-3211		theme_park.dungeon.generic_death			900						
+garyn_prowler		world	-2637	81	-3211		theme_park.dungeon.generic_death			900						
+garyn_thief		world	-2637	81	-3211		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-766	80	-4104		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-766	80	-4104		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-766	80	-4104		theme_park.dungeon.generic_death			900						
+garyn_pirate		world	3012	81	-3653		theme_park.dungeon.generic_death			900						
+garyn_lieutenant		world	3012	81	-3653		theme_park.dungeon.generic_death			900						
+garyn_marauder		world	3012	81	-3653		theme_park.dungeon.generic_death			900						
+garyn_mugger		world	3012	81	-3653		theme_park.dungeon.generic_death			900						
+garyn_pirate		world	3012	81	-3653		theme_park.dungeon.generic_death			900						
+enraged_miner		world	3809	83	-4427		theme_park.dungeon.generic_death			900						
+enraged_miner		world	3809	83	-4427		theme_park.dungeon.generic_death			900						
+enraged_miner		world	3809	83	-4427		theme_park.dungeon.generic_death			900						
+enraged_miner		world	3809	83	-4427		theme_park.dungeon.generic_death			900						
+enraged_miner		world	3809	83	-4427		theme_park.dungeon.generic_death			900						
+garyn_vigo		world	5568	75	2445		theme_park.dungeon.generic_death			900						
+garyn_raider		world	5568	75	2445		theme_park.dungeon.generic_death			900						
+garyn_raider		world	5568	75	2445		theme_park.dungeon.generic_death			900						
+garyn_raider		world	5568	75	2445		theme_park.dungeon.generic_death			900						
+garyn_raider		world	5568	75	2445		theme_park.dungeon.generic_death			900						
+enraged_miner		world	6762	81	3051		theme_park.dungeon.generic_death			900						
+enraged_miner		world	6762	81	3051		theme_park.dungeon.generic_death			900						
+enraged_miner		world	6762	81	3051		theme_park.dungeon.generic_death			900						
+enraged_miner		world	6762	81	3051		theme_park.dungeon.generic_death			900						
+garyn_prowler		world	6762	81	3051		theme_park.dungeon.generic_death			900						
+garyn_prowler		world	6762	81	3051		theme_park.dungeon.generic_death			900						
+garyn_thief		world	6762	81	3051		theme_park.dungeon.generic_death			900						
+garyn_thief		world	6762	81	3051		theme_park.dungeon.generic_death			900						
+garyn_thief		world	6762	81	3051		theme_park.dungeon.generic_death			900						
+enraged_miner		world	1940	81	1778		theme_park.dungeon.generic_death			900						
+enraged_miner		world	1940	81	1778		theme_park.dungeon.generic_death			900						
+enraged_miner		world	981	112	7566		theme_park.dungeon.generic_death			900						
+enraged_miner		world	981	112	7566		theme_park.dungeon.generic_death			900						
+enraged_miner		world	981	112	7566		theme_park.dungeon.generic_death			900						
+enraged_miner		world	981	112	7566		theme_park.dungeon.generic_death			900						
+garyn_marauder		world	975	75	6923		theme_park.dungeon.generic_death			900						
+garyn_mugger		world	975	75	6923		theme_park.dungeon.generic_death			900						
+garyn_mugger		world	975	75	6923		theme_park.dungeon.generic_death			900						
+garyn_pirate		world	975	75	6923		theme_park.dungeon.generic_death			900						
+garyn_pirate		world	975	75	6923		theme_park.dungeon.generic_death			900						
+enraged_miner		world	960	78	6539		theme_park.dungeon.generic_death			900						
+enraged_miner		world	960	78	6539		theme_park.dungeon.generic_death			900						
+enraged_miner		world	960	78	6539		theme_park.dungeon.generic_death			900						
+garyn_raider		world	1004	77	5381		theme_park.dungeon.generic_death			900						
+garyn_marauder		world	1004	77	5381		theme_park.dungeon.generic_death			900						
+garyn_raider		world	1004	77	5381		theme_park.dungeon.generic_death			900						
+garyn_vigo		world	1004	77	5381		theme_park.dungeon.generic_death			900						
+garyn_marauder		world	953	80.3	4498		theme_park.dungeon.generic_death			900						
+garyn_mugger		world	953	80.3	4498		theme_park.dungeon.generic_death			900						
+garyn_mugger		world	953	80.3	4498		theme_park.dungeon.generic_death			900						
+garyn_mugger		world	953	80.3	4498		theme_park.dungeon.generic_death			900						
+enraged_miner		world	956	76	4058		theme_park.dungeon.generic_death			900						
+enraged_miner		world	956	76	4058		theme_park.dungeon.generic_death			900						
+enraged_miner		world	956	76	4058		theme_park.dungeon.generic_death			900						
+enraged_miner		world	1098	78	3830		theme_park.dungeon.generic_death			900						
+enraged_miner		world	1098	78	3830		theme_park.dungeon.generic_death			900						
+enraged_miner		world	1098	78	3830		theme_park.dungeon.generic_death			900						
+garyn_lieutenant		world	-448	77	3242		theme_park.dungeon.generic_death			900						
+garyn_marauder		world	-448	77	3242		theme_park.dungeon.generic_death			900						
+garyn_marauder		world	-448	77	3242		theme_park.dungeon.generic_death			900						
+garyn_raider		world	-448	77	3242		theme_park.dungeon.generic_death			900						
+garyn_raider		world	-448	77	3242		theme_park.dungeon.generic_death			900						
+garyn_pirate		world	1158	90	691		theme_park.dungeon.generic_death			900						
+garyn_pirate		world	1158	90	691		theme_park.dungeon.generic_death			900						
+garyn_pirate		world	1158	90	691		theme_park.dungeon.generic_death			900						
+garyn_thief		world	1158	90	691		theme_park.dungeon.generic_death			900						
+garyn_thief		world	1158	90	691		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-985	0	-303		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-985	0	-303		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-985	0	-303		theme_park.dungeon.generic_death			900						
+garyn_raider		world	-2145	76	635		theme_park.dungeon.generic_death			900						
+garyn_raider		world	-2145	76	635		theme_park.dungeon.generic_death			900						
+garyn_raider		world	-2145	76	635		theme_park.dungeon.generic_death			900						
+garyn_lieutenant		world	-2145	76	635		theme_park.dungeon.generic_death			900						
+garyn_marauder		world	-2145	76	635		theme_park.dungeon.generic_death			900						
+garyn_marauder		world	-2145	76	635		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-1700	76	6127		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-1700	76	6127		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-1700	76	6127		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-1700	76	6127		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-1700	76	6127		theme_park.dungeon.generic_death			900						
+garyn_thief		world	-2729	79	4495		theme_park.dungeon.generic_death			900						
+garyn_thief		world	-2729	79	4495		theme_park.dungeon.generic_death			900						
+garyn_thief		world	-2729	79	4495		theme_park.dungeon.generic_death			900						
+garyn_thief		world	-2729	79	4495		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-2894	78	2575		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-2894	78	2575		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-2894	78	2575		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-2894	78	2575		theme_park.dungeon.generic_death			900						
+garyn_lieutenant		world	-5497	75	2106		theme_park.dungeon.generic_death			900						
+garyn_marauder		world	-5497	75	2106		theme_park.dungeon.generic_death			900						
+garyn_raider		world	-5497	75	2106		theme_park.dungeon.generic_death			900						
+garyn_raider		world	-5497	75	2106		theme_park.dungeon.generic_death			900						
+garyn_raider		world	-5497	75	2106		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-4506	77	1081		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-4506	77	1081		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-4506	77	1081		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-4506	77	1081		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-4506	77	1081		theme_park.dungeon.generic_death			900						
+enraged_miner		world	-4506	77	1081		theme_park.dungeon.generic_death			900						
+garyn_pirate		world	-6731	81	1082		theme_park.dungeon.generic_death			900						
+garyn_pirate		world	-6731	81	1082		theme_park.dungeon.generic_death			900						
+garyn_pirate		world	-6731	81	1082		theme_park.dungeon.generic_death			900						
+garyn_thief		world	-6731	81	1082		theme_park.dungeon.generic_death			900						
+garyn_thief		world	-6731	81	1082		theme_park.dungeon.generic_death			900						
+commoner_human_female		world	5335	80	5637	-90	conversation.lf_killmite									
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						
+itp_thrawn_rebel_scout		world	0	0	2000		theme_park.dungeon.generic_death			330						

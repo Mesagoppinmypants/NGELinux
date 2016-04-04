@@ -545,7 +545,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 102	88	object/cell/cell.iff	14	0	0	0	1	0	0	0		$|
 103	88	object/cell/cell.iff	15	0	0	0	1	0	0	0		$|
 -1082112837	103	object/tangible/collection/hanging_light_02_08.iff	15	-45.7618	4.80702	-16.4959	1	0	0	0	systems.collections.consume_click	collection.aggro|4|false|collection.slotName|4|col_hanging_light_02:hanging_light_02_08|$|
-1688849	0	object/building/naboo/palace_naboo_theed.iff	0	648	6	490	3.20E-08	0	1	0	planet_map.map_loc:theme_park.naboo.theed.palace_masterspawner	pathfinding.building.processed|0|1|pathfinding.building.waypoints|7|4065822:4065823:4065824:4065825:4065826:4065827:4065828:4065829:4065830:4065831:4065832:4065833:|portalProperty.crc|0|-1902823802|$|
+1688849	0	object/building/naboo/palace_naboo_theed.iff	0	648	6	490	3.20E-08	0	1	0	planet_map.map_loc:theme_park.naboo.theed.palace_masterspawner:theme_park.dungeon.generic_spawner	pathfinding.building.processed|0|1|pathfinding.building.waypoints|7|4065822:4065823:4065824:4065825:4065826:4065827:4065828:4065829:4065830:4065831:4065832:4065833:|portalProperty.crc|0|-1902823802|spawn_table|4|datatables/spawning/building_spawns/theed_palace.iff|$|
 1688850	1688849	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|
 1688851	1688849	object/cell/cell.iff	2	0	0	0	1	0	0	0		$|
 1688852	1688849	object/cell/cell.iff	3	0	0	0	1	0	0	0		$|

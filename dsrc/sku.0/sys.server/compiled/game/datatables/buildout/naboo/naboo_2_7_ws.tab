@@ -288,7 +288,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 4105354	0	object/static/structure/general/streetlamp_small_green_style_01.iff	0	1067.99	5.87351	204.239	0.930508	0	0.366273	0		$|
 4105355	0	object/tangible/terminal/terminal_bazaar.iff	0	1025.29	6	238.375	-0.338946	0	0.940806	0		$|
 4105356	0	object/tangible/terminal/terminal_bazaar.iff	0	1067.03	6	202.886	-0.366273	0	0.930508	0		$|
-4295615	0	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	0	 627.900390625	6	306.88720703125	.540302276611328	.841471016407013	0.00	0.00	conversation.imperial_broker	$|
+4295615	0	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	0	 627.900390625	6	306.8872070313	0.5403022766	0.8414710164	0	0	conversation.imperial_broker	$|
 4295618	0	object/static/structure/naboo/streetlamp_naboo_theed_style_1.iff	0	622.978	6	312.109	1	0	0	0		$|
 4295619	0	object/static/structure/naboo/streetlamp_naboo_theed_style_1.iff	0	672.993	6	312.229	1	0	0	0		$|
 4305368	0	object/soundobject/soundobject_city_crowd_sentients.iff	0	1282.95	6	57.123	1	0	0	0		$|
@@ -536,7 +536,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1677786	0	object/building/naboo/filler_building_naboo_theed_style_10.iff	0	311.353	6	256.364	-0.468594	0	0.883413	0		$|
 1677793	0	object/building/naboo/thm_nboo_block_bldg_64x32_s02.iff	0	130.573	6	187.741	0.714421	0	0.699716	0		$|
 1677796	0	object/building/naboo/thm_nboo_block_bldg_64x32_style_01.iff	0	201.936	6.0023	254.209	0.223882	0	0.974616	0		$|
-1697358	0	object/building/naboo/hospital_naboo_style01.iff	0	1126.24	6	66.4424	0.938444	0	0.345432	0		$|
+1697358	0	object/building/naboo/hospital_naboo_style01.iff	0	1126.24	6	66.4424	0.938444	0	0.345432	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/ep3/ep3_theed_medical_center.iff|$|
 1697385	0	object/building/naboo/thm_nboo_block_bldg_32x16_style_01.iff	0	1000.88	6	144.395	0.419322	0	0.907837	0		$|
 1697387	0	object/building/naboo/thm_nboo_block_bldg_32x16_style_02.iff	0	1183.41	6	33.6392	0.907837	0	-0.419322	0		$|
 1697390	0	object/building/naboo/thm_nboo_block_bldg_64x32_s02.iff	0	971.771	6	99.0464	0.907837	0	-0.419322	0		$|

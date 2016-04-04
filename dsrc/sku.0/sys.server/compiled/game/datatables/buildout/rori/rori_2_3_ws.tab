@@ -1,6 +1,6 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-219	0	object/static/structure/naboo/nboo_imprv_pillar_pillar_s01.iff	0	947.446	80	1819.48	1	0	0	0		$|
+219	0	object/static/structure/naboo/nboo_imprv_pillar_pillar_s01.iff	0	947.446	80	1819.48	1	0	0	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/rori/rorinpcs.iff|$|
 220	0	object/static/structure/naboo/nboo_imprv_pillar_pillar_s01.iff	0	947.452	80	1809.94	1	0	0	0		$|
 221	0	object/static/structure/naboo/gate_narrow_s01.iff	0	897.314	80	1816.2	0.707107	0	0.707107	0		$|
 222	0	object/static/structure/naboo/nboo_imprv_pillar_pillar_s01.iff	0	897.289	80	1821.34	-3.20E-08	0	1	0		$|
@@ -219,15 +219,15 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 11000299	4635433	object/cell/cell.iff	14	0	0	0	1	0	0	0		$|
 11000300	4635433	object/cell/cell.iff	15	0	0	0	1	0	0	0		$|
 11000301	4635433	object/cell/cell.iff	16	0	0	0	1	0	0	0		$|
-11019459	11000289	object/tangible/terminal/terminal_space.iff	4	1.94578778743744	.639421224594116	61.2369804382324	1.00	0.00	0.00	0.00	space.terminal.terminal_space	$|
-11019460	11000289	object/tangible/terminal/terminal_space.iff	4	-2.39033246040344	.639422535896301	61.2409172058105	1.00	0.00	0.00	0.00	space.terminal.terminal_space	$|
-11019461	11000289	object/tangible/terminal/terminal_space.iff	4	-2.38489127159119	.639422297477722	55.5486907958984	0.00	0.00	1.00	0.00	space.terminal.terminal_space	$|
-11019462	11000289	object/tangible/terminal/terminal_space.iff	4	1.87441527843475	.639420866966248	55.3451156616211	0.00	0.00	1.00	0.00	space.terminal.terminal_space	$|
-8525408	11000289	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	4	9.95971965789795	.639421999454498	67.7167510986328	0.00	0.00	1.00	0.00	conversation.chassis_npc	$|
-5226068	11000294	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	9	-30.326343536377	1.63942182064056	51.5528259277344	1.00	0.00	1.00	0.00		$|
-11019463	11000295	object/tangible/terminal/terminal_space.iff	10	-42.8350028991699	1.63942158222198	51.2345352172852	.461750596761703	0.00	.887011706829071	0.00	space.terminal.terminal_space	$|
-11019464	11000295	object/tangible/terminal/terminal_space.iff	10	-40.694652557373	1.63942241668701	46.6948623657227	1.00	0.00	0.00	0.00	space.terminal.terminal_space	$|
-11019465	11000295	object/tangible/terminal/terminal_space.iff	10	-37.9800796508789	1.63942134380341	49.6453437805176	.70710676908493	0.00	-.707111656665802	0.00	space.terminal.terminal_space	$|
+11019459	11000289	object/tangible/terminal/terminal_space.iff	4	1.9457877874	0.6394212246	61.2369804382	1	0	0	0	space.terminal.terminal_space	$|
+11019460	11000289	object/tangible/terminal/terminal_space.iff	4	-2.3903324604	0.6394225359	61.2409172058	1	0	0	0	space.terminal.terminal_space	$|
+11019461	11000289	object/tangible/terminal/terminal_space.iff	4	-2.3848912716	0.6394222975	55.5486907959	0	0	1	0	space.terminal.terminal_space	$|
+11019462	11000289	object/tangible/terminal/terminal_space.iff	4	1.8744152784	0.639420867	55.3451156616	0	0	1	0	space.terminal.terminal_space	$|
+8525408	11000289	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	4	9.9597196579	0.6394219995	67.7167510986	0	0	1	0	conversation.chassis_npc	$|
+5226068	11000294	object/tangible/space/content_infrastructure/ground_npc_spawner.iff	9	-30.3263435364	1.6394218206	51.5528259277	1	0	1	0		$|
+11019463	11000295	object/tangible/terminal/terminal_space.iff	10	-42.8350028992	1.6394215822	51.2345352173	0.4617505968	0	0.8870117068	0	space.terminal.terminal_space	$|
+11019464	11000295	object/tangible/terminal/terminal_space.iff	10	-40.6946525574	1.6394224167	46.6948623657	1	0	0	0	space.terminal.terminal_space	$|
+11019465	11000295	object/tangible/terminal/terminal_space.iff	10	-37.9800796509	1.6394213438	49.6453437805	0.7071067691	0	-0.7071116567	0	space.terminal.terminal_space	$|
 4635477	0	object/building/naboo/shuttleport_naboo.iff	0	902.73	80.6642	1948.51	0.92388	0	-0.382683	0	structure.municipal.starport:planet_map.map_loc	travel.cost|0|200|travel.ground_time|0|300|travel.is_shuttleport|0|1|travel.point_name|4|Narmle Shuttleport A|travel.shuttle_available|0|1|travel.version|0|3|$|
 4635487	0	object/building/naboo/hotel_naboo_theed.iff	0	1014.5	80	1725.21	1	0	0	0		$|
 11000528	4635487	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|

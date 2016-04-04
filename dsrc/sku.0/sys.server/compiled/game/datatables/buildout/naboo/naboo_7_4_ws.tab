@@ -79,7 +79,7 @@ i	i	h	i	f	f	f	f	f	f	f	s	p
 1426908	0	object/static/structure/naboo/nboo_imprv_short_curved_wall_small_s01.iff	0	761.891	360	663.486	0.050374	0	0.99873	0		$|
 1426909	0	object/static/structure/naboo/nboo_imprv_short_curved_wall_small_s01.iff	0	762.765	360	655.535	0.99873	0	-0.0503741	0		$|
 1503404	0	object/building/naboo/housing_naboo_style_3.iff	0	868.374	360	639.602	3.20013e-008	0	1	0		$|
-1685119	0	object/building/naboo/housing_naboo_style_1.iff	0	1028.44	350	501.077	0.261909	0	0.965093	0		$|
+1685119	0	object/building/naboo/housing_naboo_style_1.iff	0	1028.44	350	501.077	0.261909	0	0.965093	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/clone_relic/ep3_deeja_peak_empty_building.iff|$|
 1685129	0	object/static/structure/naboo/nboo_imprv_pillar_pillar_s01.iff	0	942.647	353.404	513.02	0.96639	0	-0.257081	0		$|
 1685130	0	object/static/structure/naboo/nboo_imprv_pillar_pillar_s01.iff	0	946.814	353.503	505.75	0.96639	0	-0.257081	0		$|
 1685131	0	object/static/structure/naboo/nboo_imprv_pillar_pillar_s01.iff	0	950.641	348.848	517.45	0.96639	0	-0.257081	0		$|

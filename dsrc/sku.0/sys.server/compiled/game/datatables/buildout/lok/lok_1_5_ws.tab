@@ -1,6 +1,6 @@
 objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
 i	i	h	i	f	f	f	f	f	f	f	s	p
-5685436	0	object/static/structure/naboo/obelisk_naboo_theed_style_1.iff	0	1834.21	38.9893	1121.58	1	0	0	0		$|
+5685436	0	object/static/structure/naboo/obelisk_naboo_theed_style_1.iff	0	1834.21	38.9893	1121.58	1	0	0	0	theme_park.dungeon.generic_spawner	spawn_table|4|datatables/spawning/poi_spawner/lok/loknpcs.iff|$|
 5685437	0	object/static/structure/general/streetlamp_small_red_style_01.iff	0	1834.14	38.4124	1123.88	1	0	0	0		$|
 9025356	0	object/static/structure/general/campfire_ash.iff	0	1837.03	39.2397	1123.76	1	0	0	0		$|
 9025357	0	object/static/structure/general/skeleton_human_head.iff	0	1835.25	39.7126	1126.91	0.917121	0	0	-0.398609		$|
