@@ -1,3 +1,12 @@
+# THIS REPO IS NO LONGER MAINTAINED!
+
+Our team, after having discussion, has confirmed knowledge of a new project on the horizon (some people call it "winter," not the official name). This project is coming from mostly unknown people who are not involved at any other SWG projects.
+
+To make way for them and because of our own time constraints, we will be ceasing operations. The repo will remain up and you are free to fork and continue, but we will no longer comment, review pull requests, or update the code ourselves.
+
+May the force be with you.
+-The SWGMasters Team
+
 # Game Server Readme
 
 Please put in a pull request for any and all useful changes and fixes you make! It is advisable to use a VPN and username you don't normally use online, to protect your identity. The focus of this project is Linux, but it may work on Windows.
